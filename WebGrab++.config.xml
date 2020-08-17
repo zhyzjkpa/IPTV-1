@@ -40,8 +40,8 @@
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="601" xmltv_id="601 高清體育台 *">601 高清體育台 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="602" xmltv_id="602 Sports Plus 1 *">602 Sports Plus 1 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="603" xmltv_id="603 高清603台 *">603 高清603台 *</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="603" xmltv_id="603 高清603台 *">603 高清603台 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="604" xmltv_id="604 Sports Plus 2 *">604 Sports Plus 2 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="605" xmltv_id="605 Sports Plus 3 *">605 Sports Plus 3 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="618" xmltv_id="618 有線18台">618 有線18台</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="661" xmltv_id="661 有線體育台">661 有線體育台</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="662" xmltv_id="662 Sports Plus 1">662 Sports Plus 1</channel>
