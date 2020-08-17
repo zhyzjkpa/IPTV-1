@@ -1,0 +1,72 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.1.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 17/08/2020 09:51:23
+[  Debug ] 
+[  Debug ] Running  on: Unix 5.3.0.1034
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] Mono version: 6.10.0.104 (tarball Fri Jun 26 19:38:24 UTC 2020)
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: /home/runner/work/IPTV/IPTV/.wg++/./WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[Warning ] timezone=UTC+08:00 mapped with timezone_id "Asia/Shanghai"
+[  Debug ] 
+[  Info  ] found: /home/runner/work/IPTV/IPTV/.wg++/./siteini.pack/Hong Kong/epg.i-cable.com.chinese.ini -- Revision 00
+[  Info  ] input file /home/runner/work/IPTV/IPTV/.wg++/guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 11 - out of - 11 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=01 香港開電視 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=02 香港國際財經台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=03 香港開電視) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=05 香港國際財經台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=108 財經資訊台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=109 新聞台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=110 直播新聞台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=111 中央電視台新聞) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=112 中央電視台中文) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=113 鳯凰衛視資訊台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/11  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=114 東森亞洲新聞台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 319 shows in 11 channels
+[  Debug ] 0 updated shows
+[  Debug ] 319 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 17/08/2020 09:52:19 done in 56s
