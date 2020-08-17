@@ -1,0 +1,29 @@
+name: Make IPTV EPG 
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Download WebGrab+Plus
+      run: |
+        wget http://webgrabplus.com/sites/default/files/download/SW/V3.1.0/WebGrabPlus_V3.1_install.tar.gz
+    - name: Extract
+      run: |
+        tar -zxvf WebGrabPlus_V3.1_install.tar.gz
+    - name: Install
+      run: |
+        cd .wg++
+        ./install.sh
+    - name: Download WebGrab++.config.xml
+      run: |
+        cd .wg++
+        wget -N https://raw.githubusercontent.com/LiuYi0526/IPTV/master/WebGrab++.config.xml
+    - name: Run
+      run: |
+        cd .wg++
+        ./run.sh
+    - name : Upload artifact
+      uses: actions/upload-artifact@master
+      with:
+        name: guide.xml
+        path: .wg++/guide.xml
