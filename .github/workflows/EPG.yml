@@ -1,5 +1,8 @@
 name: Make IPTV EPG 
-on: push
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-18.04
