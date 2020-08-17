@@ -27,3 +27,14 @@ jobs:
       with:
         name: guide.xml
         path: .wg++/guide.xml
+    - name: Git push assets to "EPG" branch
+      run: |
+        cd .wg++
+        git init
+        git config --local user.name "actions"
+        git config --local user.email "action@github.com"
+        git checkout -b release
+        git add .
+        git commit -m "Update EPG"
+        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+        git push -f -u origin EPG
