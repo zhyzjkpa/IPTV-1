@@ -75,7 +75,7 @@ http://39.135.250.72/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226057/0
 http://39.135.139.199:6610/PLTV/88888888/224/3221225495/2/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="14" tvg-logo="http://tv.sason.xyz/logo/cctv13.png" group-title="中国央视", CCTV-13 新闻 高清
-http://119.167.231.111/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000067
 
 #EXTINF:-1 tvg-id="15" tvg-logo="http://tv.sason.xyz/logo/cctv14.png" group-title="中国央视", CCTV-14 少儿 高清
 http://39.135.139.199:6610/PLTV/88888888/224/3221225494/2/index.m3u8?fmt=ts2hls
