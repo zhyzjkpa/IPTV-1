@@ -524,7 +524,7 @@ http://61.238.6.49:8000/bysid/99
 https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRHZpdXR2
 
 #EXTINF:-1 tvg-id="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="香港", 有線財經資訊台 HD
-http://livealima.utvlive.top/livehls/MOB-NGW/02.m3u8
+http://liveima.utvlive.top/livehls/MOB-NGW/02.m3u8
 
 #EXTINF:-1 tvg-id="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="香港", 有線財經資訊台 HD
 http://livetv.dnsfor.me:80/channel.6.m3u8
@@ -536,7 +536,7 @@ http://teslagram.com/live/channel_108.m3u8
 https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhZmluYW5jZQ__
 
 #EXTINF:-1 tvg-id="YXW.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLENewsChannelHD.png" group-title="香港", 有線新聞台 HD
-http://livealima.utvlive.top/livehls/MOB-SCC/02.m3u8
+https://liveima.utvlive.top/livehls/MOB-SCC/02.m3u8
 
 #EXTINF:-1 tvg-id="YXW.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLENewsChannelHD.png" group-title="香港", 有線新聞台 HD
 http://livetv.dnsfor.me:80/channel.5.m3u8
@@ -551,7 +551,7 @@ https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZC
 http://teslagram.com/live/channel_110.m3u8
 
 #EXTINF:-1 tvg-id="YYL.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEFamilyEntertainmentChannelHD.png" group-title="香港", 有線綜合娛樂台 HD
-http://livealima.utvlive.top/livehls/MOB-CN/02.m3u8
+http://liveima.utvlive.top/livehls/MOB-CN/02.m3u8
 
 #EXTINF:-1 tvg-id="YYL.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEFamilyEntertainmentChannelHD.png" group-title="香港", 有線綜合娛樂台 HD
 http://livetv.dnsfor.me:80/channel.7.m3u8
@@ -568,11 +568,20 @@ https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZC
 #EXTINF:-1 tvg-id="618.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEChannel18.png" group-title="香港", 有線18台
 https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhMTg_
 
+#EXTINF:-1 tvg-id="618.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEChannel18.png" group-title="香港", 有線18台
+http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
+
 #EXTINF:-1 tvg-id="618.HK" tvg-logo="http://www.nettvplus.live/uploads/20/1-200319145514C3.jpg" group-title="香港", 有線電影台
 https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNhbW92aWU_
 
 #EXTINF:-1 tvg-id="FHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港", 鳳凰衛視中文台
+http://117.169.119.199:8080/live/fhchinese/index.m3u8
+
+#EXTINF:-1 tvg-id="FHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港", 鳳凰衛視中文台
 http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港", 鳳凰衛視資訊台
+http://117.169.119.199:8080/live/fhzixun/index.m3u8
 
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港", 鳳凰衛視資訊台
 http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
@@ -584,19 +593,22 @@ http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 rtmp://58.200.131.2:1935/livetv/fhdy
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowdirect.png" group-title="香港", now直播台
-http://livetv.dnsfor.me:80/channel.3.m3u8
+http://teslagram.com/live/channel_331.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowdirect.png" group-title="香港", now直播台
-http://teslagram.com/live/channel_331.m3u8
+http://livetv.dnsfor.me:80/channel.3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowdirect.png" group-title="香港", now直播台
 https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRG5vdzMzMQ__
 
-#EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nownews.png" group-title="香港", now新聞台
-http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowdirect.png" group-title="香港", now直播台
+http://ff05.vipub1818.com/live/400/dd6a1afa94dcc9f7b80655a4b018041f/index.m3u8
 
 #EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nownews.png" group-title="香港", now新聞台
 http://teslagram.com/live/channel_332.m3u8
+
+#EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nownews.png" group-title="香港", now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
 
 #EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nownews.png" group-title="香港", now新聞台
 https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRG5vdzMzMg__
@@ -626,7 +638,7 @@ https://stream.isuntv.com/680k/mid_video_index.m3u8
 http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20030PZH60-L.jpg" group-title="香港", C+
-https://ez.wangweizhushou.com/lxtv.php?lxtv685&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNwbHVz
+https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGNwbHVz
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ylws.png" group-title="香港", 亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
@@ -743,10 +755,10 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://www.nettvplus.live/uploads/allimg/18/1-1PF21500270-L.jpg" group-title="台灣", 寰宇新聞台
-https://ez.wangweizhushou.com/lxtv.php?lxtv685&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGh5eHc_
+https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGh5eHc_
 
 #EXTINF:-1 tvg-id="7177" tvg-logo="http://www.nettvplus.live/uploads/20/1-200323215544608.jpg" group-title="台灣", 寰宇新聞台灣台
-https://ez.wangweizhushou.com/lxtv.php?lxtv685&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGh5dHc_
+https://ez.wangweizhushou.com/lxtv.php?lxtv733&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGh5dHc_
 
 #EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
