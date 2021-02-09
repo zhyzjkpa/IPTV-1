@@ -30,6 +30,7 @@ CCTV-13 新闻 高清,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmc
 CCTV-14 少儿 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 CCTV-15 音乐 高清,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-17 农业农村 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
+CCTV-4K 超高清,http://111.161.121.211/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
 CCTV-4K 超高清,http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 CCTV 怀旧剧场 高清,http://117.187.54.44/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1.m3u8?fmt=ts2hls
 CCTV 风云音乐 高清,http://117.187.54.44/gz.ucdn.10086.cn/PLTV/88888888/224/3221226083/1.m3u8?fmt=ts2hls
