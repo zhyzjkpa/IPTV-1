@@ -1,16 +1,16 @@
 中国央视,#genre#
 CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
-央视新闻·正直播1,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
-央视新闻·正直播2,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
-央视新闻·正直播3,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
-央视新闻·正直播4,https://newsalic.v.myalicdn.com:443/news/news04_1/index.m3u8
-央视新闻·正直播5,https://newsalic.v.myalicdn.com:443/news/news05_1/index.m3u8
-央视新闻·正直播6,https://newsalic.v.myalicdn.com:443/news/news06_1/index.m3u8
-央视新闻·正直播7,https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
-央视新闻·正直播8,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
-央视新闻·正直播9,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
-央视新闻·正直播10,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news04_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news05_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news06_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 CCTV-1 综合 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
 CCTV-2 财经 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls
 CCTV-3 综艺 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
