@@ -89,7 +89,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 河南卫视 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
 湖北卫视 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225699/2/index.m3u8?fmt=ts2hls
 江西卫视 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225492/2/index.m3u8?fmt=ts2hls
-吉林卫视 高清,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jilinstv/index.m3u8?IAS
+吉林卫视 高清,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jilinstv/index.m3u8?IAS
 四川卫视 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225487/2/index.m3u8?fmt=ts2hls
 内蒙古卫视 高清,http://live.m2oplus.nmtv.cn/1/playlist.m3u8?token=
 宁夏卫视 高清,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
@@ -295,7 +295,7 @@ TVBS新聞台 HD,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 ★寰宇財經台,http://sl.tmtv.me/20201226/ubtl.php?cid=320
 東森財經新聞 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森美洲 HD,http://seb.sason.top/sc/dsmz_fhd.m3u8
-非凡商業 HD,http://sl.tmtv.me/20201226/ubtl.php?cid=187
+★非凡商業 HD,http://sl.tmtv.me/20201226/ubtl.php?cid=187
 民視第一台 HD,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台 HD,http://seb.sason.top/ptv/ftv.php?id=tw
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
@@ -304,8 +304,8 @@ TVBS新聞台 HD,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 TVBS歡樂台 HD,rtmp://59.124.75.156/sat/tv421
 東森電影 HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 東森洋片 HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-三立都會台 HD,http://sl.tmtv.me/20201226/ubtl.php?cid=38
-三立台灣台 HD,http://sl.tmtv.me/20201226/ubtl.php?cid=35
+★三立都會台 HD,http://sl.tmtv.me/20201226/ubtl.php?cid=38
+★三立台灣台 HD,http://sl.tmtv.me/20201226/ubtl.php?cid=35
 衛視電影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
