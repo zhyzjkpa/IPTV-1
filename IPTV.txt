@@ -49,7 +49,7 @@ CCTV 央视台球 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_
 中央新影 中学生,http://39.135.138.5:6610/PLTV/88888888/224/3221225515/2/index.m3u8
 中央新影 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 中央新影 发现之旅,http://125.210.152.18:9090/live/FXZL_750.m3u8
-CCTV-中视购物,http://39.135.138.8:6610/PLTV/88888888/224/3221225976/2/index.m3u8
+CCTV-中视购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 CETV-1 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 CETV-2,http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
 CETV-3,http://183.207.248.71/gitv/live1/G_CETV-3/G_CETV-3
