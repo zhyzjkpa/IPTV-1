@@ -356,7 +356,7 @@ http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/4KUHD.jpeg" group-title="4K", 南国都市 4K
 http://hls222.dszbdq.cn/gdgz.php?id=gzsh
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hxjc.png" group-title="4K",欢笑剧场 4K
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hxjc.png" group-title="4K", 欢笑剧场 4K
 http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" https://img4.orsoon.com/ico/202003/30160037_52e99d3fbd.png" group-title="4K", 芒果TV 4K
