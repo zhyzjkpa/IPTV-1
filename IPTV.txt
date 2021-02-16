@@ -32,19 +32,19 @@ CCTV-15 音乐 高清,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtual
 CCTV-17 农业农村 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 CCTV-4K 超高清,http://111.161.121.211/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
 CCTV-4K 超高清,http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
-CCTV 怀旧剧场 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?&encrypt=1
-CCTV 风云音乐 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?&encrypt=1
-★CCTV 卫生健康 高清,http://ikands.xyz/dl/91kds?u=0&id=wsjk&token=1216154892
-CCTV 兵器科技 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?&encrypt=1
-CCTV 第一剧场 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?&encrypt=1
-★CCTV 电视指南 高清,http://39.135.138.5:6610/PLTV/88888888/224/3221225673/1.m3u8
-CCTV 风云剧场 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/fyjc/fyjc711/1000/index.m3u8?&encrypt=1
-CCTV 风云足球 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?&encrypt=1
-CCTV 高尔夫·网球 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?&encrypt=1
-CCTV 女性时尚 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/nxss/nxss711/1000/index.m3u8?&encrypt=1
-CCTV 世界地理 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?&encrypt=1
-CCTV 央视文化精品 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/ysjp/ysjp711/1000/index.m3u8?&encrypt=1
-CCTV 央视台球 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=1
+CCTV 怀旧剧场 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hjjc
+CCTV 风云音乐 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyyy
+CCTV 卫生健康 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wsjk
+CCTV 兵器科技 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=bqkj
+CCTV 第一剧场 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=dyjc
+CCTV 电视指南 高清,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+CCTV 风云剧场 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyjc
+CCTV 风云足球 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyzq
+CCTV 高尔夫·网球 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gefwq
+CCTV 女性时尚 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=nxss
+CCTV 世界地理 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=sjdl
+CCTV 央视文化精品 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ysjp
+CCTV 央视台球 高清,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ystq
 中央新影 老故事,http://39.135.138.5:6610/PLTV/88888888/224/3221225517/2/index.m3u8
 中央新影 中学生,http://39.135.138.5:6610/PLTV/88888888/224/3221225515/2/index.m3u8
 中央新影 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
