@@ -300,7 +300,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225879/index.m3u8
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-logo="http://tv.sason.xyz/logo/xmws.png" group-title="中国卫视", 厦门卫视 高清
-http://cstvpull.live.wscdns.com/live/xiamen.flv
+http://xiamencncc.v.wscdns.com/xiamen/xiamen_1/index.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-logo="http://tv.sason.xyz/logo/kbws.png" group-title="中国卫视", 康巴卫视 高清
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
