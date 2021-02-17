@@ -101,7 +101,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 南方卫视,http://39.135.138.5:6610/PLTV/88888888/224/3221225900/2/index.m3u8
 兵团卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225879/index.m3u8
 延边卫视 高清,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-厦门卫视 高清,http://cstvpull.live.wscdns.com/live/xiamen.flv
+厦门卫视 高清,http://xiamencncc.v.wscdns.com/xiamen/xiamen_1/index.m3u8
 康巴卫视 高清,http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 西藏卫视,http://39.135.138.5:6610/PLTV/88888888/224/3221225723/2/index.m3u8
 三沙卫视,http://221.179.217.9/PLTV/88888888/224/3221226544/1.m3u8
