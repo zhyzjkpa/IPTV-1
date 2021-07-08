@@ -1,15 +1,21 @@
 # Live TV m3u
-You can use Perfect IPTV Player Or Tivimate
+请使用 Perfect IPTV Player 或 Tivimate 进行观看
 - M3U:https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.m3u
-- 中國加速M3U:https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
+- 中国加速M3U-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
+- 中国加速M3U-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.m3u
+- 中国加速M3U-3：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
+- 中国加速M3U-4：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
 - My Test EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml
 - EPG1:http://epg.51zmt.top:8000/e.xml
-- EPG2:https://raw.githubusercontent.com/pcccw/pcccw.github.io/main/EPG/guide_71.xml
+- EPG2:https://raw.githubusercontent.com/pcccw/Ark/main/EPG/guide_71.xml
 
 # Live TV txt
-You can use DIYP影音终极版
+请使用 DIYP影音 进行观看
 - TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt
-- 中國加速TXT:https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
+- 中国加速TXT-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
+- 中国加速TXT-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.txt
+- 中国加速TXT-3：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.txt
+- 中国加速TXT-4：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.txt
 
 # Usage Guide
 部分直播源需要特定地区ip或翻墙才能正常播放，教育网需IPv6网络观看，[检测地址](http://test-ipv6.com/)
@@ -18,11 +24,7 @@ You can use DIYP影音终极版
 
 GitHub：[主页](https://github.com/LiuYi0526/IPTV)  [文件打包](https://github.com/LiuYi0526/IPTV/archive/refs/heads/master.zip)  
 镜像1：[主页](https://hub.fastgit.org/LiuYi0526/IPTV)  [文件打包](https://hub.fastgit.org/LiuYi0526/IPTV/archive/master.zip)  
-镜像2：[主页](https://github.wuyanzheshui.workers.dev/LiuYi0526/IPTV)  [文件打包](https://github.wuyanzheshui.workers.dev/LiuYi0526/IPTV/archive/master.zip)  
-镜像3：[主页](https://github.bajins.com/LiuYi0526/IPTV)  [文件打包](https://github.bajins.com/LiuYi0526/IPTV/archive/master.zip)  
-镜像4：[主页](https://github.rc1844.workers.dev/LiuYi0526/IPTV)  [文件打包](https://github.rc1844.workers.dev/LiuYi0526/IPTV/archive/master.zip) 
-
-~~而对于能正常访问github pages的用户，[山东移动](https://spx372928.github.io/MyIPTV/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt)这种格式也可以用，只需修改后面的文件名即可~~
+镜像2：[主页](https://github.rc1844.workers.dev/LiuYi0526/IPTV)  [文件打包](https://github.rc1844.workers.dev/LiuYi0526/IPTV/archive/master.zip) 
 
 ### 关于扫源  
 那么多不同来源的地址，难免会失效，而我不可能每次都能及时更新，这里放几个给小白使用的工具链接，可以试着扫一下  
