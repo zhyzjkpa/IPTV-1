@@ -1,5 +1,5 @@
-# Live TV m3u
-请使用 Perfect IPTV Player 或 Tivimate 进行观看
+# m3u格式直播源
+推荐使用 Perfect IPTV Player 或 Tivimate 进行观看
 - M3U:https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.m3u
 - 中国加速M3U-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
 - 中国加速M3U-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.m3u
@@ -9,15 +9,15 @@
 - EPG1:http://epg.51zmt.top:8000/e.xml
 - EPG2:https://raw.githubusercontent.com/pcccw/Ark/main/EPG/guide_71.xml
 
-# Live TV txt
-请使用 DIYP影音 进行观看
+# txt格式直播源
+推荐使用 DIYP影音 进行观看
 - TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt
 - 中国加速TXT-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
 - 中国加速TXT-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.txt
 - 中国加速TXT-3：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.txt
 - 中国加速TXT-4：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.txt
 
-# Usage Guide
+# 使用指南
 部分直播源需要特定地区ip或翻墙才能正常播放，教育网需IPv6网络观看，[检测地址](http://test-ipv6.com/)
 
 标注形式复杂，大多数人应该会挑选部分源重新编辑后使用，这里放上整个仓库的几个镜像站，有需要的可以去镜像里找单个文件链接
