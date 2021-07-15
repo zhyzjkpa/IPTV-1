@@ -1,6 +1,7 @@
 中国央视,#genre#
 CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
@@ -10,15 +11,14 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
-央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-CCTV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
+CCTV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.135.138.8:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls
 CCTV3,http://39.135.138.8:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
-CCTV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.135.138.8:6610/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls
 CCTV-4 中文国际美洲 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
 CCTV-4 中文国际欧洲 高清,http://183.131.128.233/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-CCTV5+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 CCTV6,http://39.135.138.8:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
 CCTV7,http://39.135.138.8:6610/PLTV/88888888/224/3221225644/2/index.m3u8?fmt=ts2hls
 CCTV8,http://39.135.138.8:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
@@ -73,7 +73,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 广东卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-海南卫视,http://39.135.138.8:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
+旅游卫视,http://39.135.138.8:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
 山东卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 天津卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://39.135.138.8:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls
@@ -118,10 +118,10 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 
 4K,#genre#
-北京纪实$ 4K HDR 测试,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
+北京纪实 $ 4K HDR 测试,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 广东综艺 4K,http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
 南国都市 4K,http://hls222.dszbdq.cn/gdgz.php?id=gzsh
-欢笑剧场$ 4K,http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
+欢笑剧场 $ 4K,http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
 芒果TV 4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 纯享4K,http://39.135.138.8:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
@@ -189,10 +189,10 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
-香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-香港國際財經台,http://uc6.i-cable.com:80/liveJoemud_ts/_definst_/4-6761c906-1624850732-1624862912-4e5c4318a5000b00a55efb669d5cc7a9-8d93a27dc2d450f_897-03/opentvhd002_h.live/playlist.m3u8
-香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+香港国际财经台,http://uc6.i-cable.com:80/liveJoemud_ts/_definst_/4-6761c906-1624850732-1624862912-4e5c4318a5000b00a55efb669d5cc7a9-8d93a27dc2d450f_897-03/opentvhd002_h.live/playlist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台 (簡/英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
