@@ -11,6 +11,7 @@
 
 # txt格式直播源
 推荐使用 DIYP影音 进行观看
+- EPG:http://epg.51zmt.top:8000/api/diyp/
 - TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt
 - 中国加速TXT-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
 - 中国加速TXT-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.txt
