@@ -12,7 +12,7 @@ jobs:
         wget http://webgrabplus.com/sites/default/files/download/SW/V3.2.0/WebGrabPlus_V3.2_install.tar.gz
     - name: Extract
       run: |
-        tar -zxvf WebGrabPlus_V3.1_install.tar.gz
+        tar -zxvf WebGrabPlus_V3.2_install.tar.gz
     - name: Install
       run: |
         cd .wg++
