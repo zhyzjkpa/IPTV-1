@@ -14,6 +14,7 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 河南新闻,https://www.navchina.cf/IPTV/hn.php?id=xwpd
 河南民生,https://www.navchina.cf/IPTV/hn.php?id=mspd
 河南公共,https://www.navchina.cf/IPTV/hn.php?id=ggpd
+河南都市,https://www.navchina.cf/IPTV/hn.php?id=dspd
 CCTV1,http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://39.135.138.8:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://39.135.138.8:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
