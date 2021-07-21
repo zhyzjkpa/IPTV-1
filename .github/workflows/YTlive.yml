@@ -9,8 +9,8 @@ jobs:
     steps:
     - name: Install youtube-dl
       run: |
-        curl https://rclone.org/install.sh | sudo bash
         sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+        sudo chmod a+rx /usr/local/bin/youtube-dl
     - name: Get hyxw.m3u8
       run: |
         touch ./hyxw.m3u8
