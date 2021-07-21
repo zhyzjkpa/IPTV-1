@@ -1,3 +1,4 @@
+CCTV4K 15M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 百事通4K 15M2160,http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 芒果TV 15M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
@@ -20,7 +21,6 @@ CCTV5+ 8M1080,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221
 CCTV5+ 8M1080,http://39.135.230.88/ott.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8
 CCTV7 12M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
 CCTV7 4M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
-CCTV7 5.5M1080HEVC,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 CCTV7 8M1080,http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
 CCTV7 8M1080,http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
 CCTV9 4M1080,http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
