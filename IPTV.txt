@@ -17,7 +17,7 @@ CCTV3,http://39.135.138.8:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2
 CCTV4,http://39.135.138.8:6610/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4 中文国际美洲 高清,http://42.81.144.99:80/live.cache.cmvideo.cn/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
 CCTV-4 中文国际欧洲 高清,http://42.81.144.99:80/live.cache.cmvideo.cn/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
-CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8#http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227537/index.m3u8#http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8
 CCTV5+,http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV6,http://39.135.138.8:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
