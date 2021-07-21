@@ -386,7 +386,16 @@ Russia Today Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb
 Russia Today Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
 Россия 24,http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 Россия 24,http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
-SBS,http://211.245.55.198:1024/m2u/239.192.41.2:49220
+SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01
+SBS Sports,https://www.navchina.cf/IPTV/sbs.php?id=S02
+SBS Plus,https://www.navchina.cf/IPTV/sbs.php?id=S03
+SBS Fun,https://www.navchina.cf/IPTV/sbs.php?id=S04
+SBS Golf,https://www.navchina.cf/IPTV/sbs.php?id=S05
+SBS Biz,https://www.navchina.cf/IPTV/sbs.php?id=S06
+SBS POWER FM,https://www.navchina.cf/IPTV/sbs.php?id=S07
+SBS LOVE FM,https://www.navchina.cf/IPTV/sbs.php?id=S08
+SBS MTV,https://www.navchina.cf/IPTV/sbs.php?id=S09
+SBS GorealraM,https://www.navchina.cf/IPTV/sbs.php?id=S19
 SBS International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 SBS Plus International,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 sky news,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
