@@ -212,9 +212,9 @@ ViuTVsix,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/ch
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 有线财经资讯台,http://livetv.dnsfor.me:80/channel.6.m3u8
 有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
-有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-有線綜合娛樂台,http://livetv.dnsfor.me:80/channel.7.m3u8
-香港603,http://aliplay.17zuoye.cn/live/6c4106f99cf503fef5682682ba76b990.m3u8
+★有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
+★有線綜合娛樂台,http://livetv.dnsfor.me:80/channel.7.m3u8
+★香港603,http://aliplay.17zuoye.cn/live/6c4106f99cf503fef5682682ba76b990.m3u8
 有線18台,rtmp://59.124.75.156/sat/hk042
 ★有線Sports Plus 1,http://sl.tmtv.me/20201226/ubtl.php?cid=401
 ★有線Sports Plus 2,http://sl.tmtv.me/20201226/ubtl.php?cid=356
@@ -226,7 +226,7 @@ ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/chann
 ★now爆谷台,http://sl.tmtv.me/20201226/ubtl.php?cid=152
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
-now財經台,http://hktv.ga/live/nowfin.m3u8
+★now財經台,http://hktv.ga/live/nowfin.m3u8
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 賽馬直擊,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
 亞視香港追撃搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
@@ -277,8 +277,8 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
 原住民频道,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-寰宇新闻,http://seb.sason.top/sc/hyxw.m3u8
-寰宇新聞台灣台,http://sl.tmtv.me/20201226/ubtl.php?cid=87
+寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+★寰宇新聞台灣台,http://sl.tmtv.me/20201226/ubtl.php?cid=87
 中天綜合台,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
