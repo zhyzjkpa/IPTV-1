@@ -333,11 +333,12 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
-Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+★Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-BBC World News,https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+★BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+BBC World News,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
+Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 CBC News,https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
@@ -346,13 +347,16 @@ Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97
 ★CNBC,https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
 CNBC World,http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-Deutsche Welle (English),https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+CNN,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
+Deutsche Welle (English),https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 DPRK Central Television,https://tv.nknews.org/tvhls/stream.m3u8
-Euronews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+Euronews,http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 FOX Business,https://gma2.blab.email/espnu.m3u8
 Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-France 24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+FOX SPORTS,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+FOX SPORTS 3,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
+France 24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 IRIB Press TV,https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2050325877_b644100_slen.m3u8
 JTBC,http://211.245.55.198:1024/m2u/239.192.58.7:49220
 KBS 1,http://211.245.55.198:1024/m2u/239.192.67.100:49220
@@ -363,10 +367,13 @@ MBC,http://211.54.140.36/hdmi
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+NHK WORLD JAPAN HD,https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-Olympic Channel,https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-Olympic Channel 2,https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+★Olympic Channel,https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+★Olympic Channel 2,https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+Russia Today Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+Russia Today Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
 Россия 24,http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 Россия 24,http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 SBS,http://211.245.55.198:1024/m2u/239.192.41.2:49220
