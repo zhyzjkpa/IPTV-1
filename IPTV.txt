@@ -205,9 +205,9 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#https://cdn.hkdtmb.com/hls/81b/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 TVB星河频道,http://sl.tmtv.me/20201226/ubtl.php?cid=1079
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#https://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
-无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 無綫新聞 newsevent1,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 ViuTVsix,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
@@ -264,8 +264,8 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8#rtmp://59.124.75.156/sat/tv111
-華視教育體育文化台,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-華視新聞資訊台 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 國會頻道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
 國會頻道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
 台视,rtmp://59.124.75.156/sat/tv071
@@ -281,11 +281,10 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 原住民频道,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 ★寰宇新聞台灣台,http://sl.tmtv.me/20201226/ubtl.php?cid=87
-中天綜合台,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+中天綜合 HD,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-東森美洲 HD,http://seb.sason.top/sc/dsmz_fhd.m3u8
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8#http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 TVBS欢乐台,rtmp://59.124.75.156/sat/tv421
@@ -346,7 +345,7 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
-★Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+★Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/AfricaNews.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 ★BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
@@ -372,11 +371,11 @@ FOX SPORTS 3,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/
 France 24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 IRIB Press TV,https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2050325877_b644100_slen.m3u8
 JTBC,http://211.245.55.198:1024/m2u/239.192.58.7:49220
-KBS 1,http://211.245.55.198:1024/m2u/239.192.67.100:49220
-KBS 2,http://211.245.55.198:1024/m2u/239.192.67.99:49220
+KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+KBS 2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 KBS 24,http://123.30.146.182:8080/256/video.m3u8
 KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-MBC,http://211.54.140.36/hdmi
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
@@ -389,7 +388,7 @@ Russia Today Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb
 Russia Today Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
 Россия 24,http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 Россия 24,http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
-SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01
+SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01#http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8 
 SBS Sports,https://www.navchina.cf/IPTV/sbs.php?id=S02
 SBS Plus,https://www.navchina.cf/IPTV/sbs.php?id=S03
 SBS Fun,https://www.navchina.cf/IPTV/sbs.php?id=S04
