@@ -1082,7 +1082,7 @@ https://stream.radiojar.com/7thwu53r92quv
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 #EXTINF:-1 tvg-id="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="Global", Africa News
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/AfricaNews.m3u8
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="Global", Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
