@@ -345,7 +345,7 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
-★Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/AfricaNews.m3u8
+Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 ★BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
