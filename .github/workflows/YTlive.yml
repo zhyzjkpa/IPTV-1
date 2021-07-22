@@ -20,11 +20,20 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=oBtdmnT-lCc)
         EOL
+    - name: Get hyxw.m3u8
+      run: |
+        touch ./africanews.m3u8
+        sudo cat >./africanews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(https://www.youtube.com/watch?v=NQjabLGdP5g)
+        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
-        name: hyxw.m3u8
-        path: ./hyxw.m3u8
+        name: YTlive m3u8
+        path: .
     - name: Git push assets to "YTlive" branch
       run: |
         git init
