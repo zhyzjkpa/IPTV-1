@@ -199,8 +199,8 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 港台電視33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8#https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
-香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-香港开电视,#https://cdn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8#https://www.navchina.cf/IPTV/icable.php?id=76
+香港开电视,#https://cdn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#https://cdn.hkdtmb.com/hls/81b/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
@@ -212,15 +212,15 @@ TVB星河频道,http://sl.tmtv.me/20201226/ubtl.php?cid=1079
 無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 ViuTVsix,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有線直播新聞台,https://api.leonardpark.dev/live/icable/110
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108#https://www.navchina.cf/IPTV/icable.php?id=38
+有线新闻台,https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110#https://www.navchina.cf/IPTV/icable.php?id=39
 ★有線綜合娛樂台,http://livetv.dnsfor.me:80/channel.7.m3u8
-有線奧運601,https://api.leonardpark.dev/live/icable/601
-有線奧運602,https://api.leonardpark.dev/live/icable/602
-有線高清603台,https://api.leonardpark.dev/live/icable/603
-有線奧運604,https://api.leonardpark.dev/live/icable/604
-有線奧運605,https://api.leonardpark.dev/live/icable/605
+有線奧運601台,https://api.leonardpark.dev/live/icable/601#https://www.navchina.cf/IPTV/icable.php?id=61
+有線奧運602台,https://api.leonardpark.dev/live/icable/602#https://www.navchina.cf/IPTV/icable.php?id=62
+有線高清603台,https://api.leonardpark.dev/live/icable/603#https://www.navchina.cf/IPTV/icable.php?id=63
+有線奧運604台,https://api.leonardpark.dev/live/icable/604#https://www.navchina.cf/IPTV/icable.php?id=64
+有線奧運605台,https://api.leonardpark.dev/live/icable/605#https://www.navchina.cf/IPTV/icable.php?id=65
 有線18台,rtmp://161.202.204.248:1935/sat/hk042
 ★有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -230,7 +230,7 @@ ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/chann
 ★now爆谷台,http://sl.tmtv.me/20201226/ubtl.php?cid=152
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
-★now財經台,http://hktv.ga/live/nowfin.m3u8
+now財經台,https://www.navchina.cf/IPTV/now.php?id=333
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 賽馬直擊,http://teslagram.com/live/channel_utv_racing.m3u8
 亞視香港追撃搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
@@ -244,6 +244,7 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 香港01直播2台,https://live2.cdn.hk01.com/origin/smil:Sudden01.smil/chunklist_b1896000.m3u8
 東網直播1台,https://streamw-az-news3.on.cc/video/playlist720p.m3u8
 東網直播2台,https://streama-aws-news2.on.cc/src/remote1_hd.smil/chunklist_b1596000.m3u8
+東網喝彩台CH 1,https://streamw-az-hk11.on.cc/src/smil:remote1_hd.smil/chunklist_b6628000.m3u8
 
 澳門,#genre#
 澳視澳門,http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
