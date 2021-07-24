@@ -221,7 +221,7 @@ ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/chann
 有線高清603台,https://api.leonardpark.dev/live/icable/603
 有線奧運604,https://api.leonardpark.dev/live/icable/604
 有線奧運605,https://api.leonardpark.dev/live/icable/605
-有線18台,rtmp://59.124.75.156/sat/hk042
+有線18台,rtmp://161.202.204.248:1935/sat/hk042
 ★有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
 凤凰中文,http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
 凤凰资讯,http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
@@ -261,19 +261,20 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 台灣,#genre#
-中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.156/sat/tv091
+ELTA奥运1台,rtmp://59.124.75.153/sat/md011
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8#rtmp://59.124.75.156/sat/tv111
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8#rtmp://59.124.75.153/sat/tv111
 華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 國會頻道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
 國會頻道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
-台视,rtmp://59.124.75.156/sat/tv071
+台视,rtmp://59.124.75.153/sat/tv071
 台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 公视,http://sl.tmtv.me/20201226/ubtl.php?cid=361
-民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8#rtmp://59.124.75.156/sat/tv051
+民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8#rtmp://59.124.75.153/sat/tv051
 民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=dy
 民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-302/playlist.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=tw#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
@@ -286,10 +287,11 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 中天綜合 HD,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://59.124.75.153:1935/sat/tv571
+東森超視,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8#http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-TVBS欢乐台,rtmp://59.124.75.156/sat/tv421
+TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8#rtmp://59.124.75.153/sat/tv552#rtmp://59.124.75.1530:1935/sat/tv551
+TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
 三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
@@ -307,6 +309,8 @@ TVBS欢乐台,rtmp://59.124.75.156/sat/tv421
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+FOX體育,rtmp://59.124.75.153:1935/sat/tv731
+FOX2體育,rtmp://59.124.75.153/sat/tv741
 FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
