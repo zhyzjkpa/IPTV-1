@@ -223,9 +223,9 @@ ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/chann
 有線奧運605,https://api.leonardpark.dev/live/icable/605
 有線18台,rtmp://161.202.204.248:1935/sat/hk042
 ★有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
-凤凰中文,http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
-凤凰资讯,http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
-凤凰香港,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 鳳凰衛視電影台,rtmp://58.200.131.2:1935/livetv/fhdy
 ★now爆谷台,http://sl.tmtv.me/20201226/ubtl.php?cid=152
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
