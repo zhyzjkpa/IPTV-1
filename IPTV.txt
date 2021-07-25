@@ -264,6 +264,9 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 
 台灣,#genre#
 ELTA奥运1台,rtmp://59.124.75.153/sat/md011
+ELTA奥运3台,rtmp://59.124.75.153/sat/md011
+ELEVEN+,rtmp://59.124.75.153/sat/md021
+ELTA體育1台4K,rtmp://59.124.75.153/sat/md031#rtmp://59.124.75.153/sat/md041
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
