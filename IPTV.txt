@@ -11,6 +11,7 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
+浙江中国蓝新闻,http://plmedia20.live.weibo.com:80/alicdn/4662033108699160.flv
 大象新闻,http://gzvod.hntv.tv/live/tljul10.m3u8?txSecret=794d5ea6d04413719673cbbd0fc79f16&txTime=610362DC
 河南交通广播,http://plmedia.live.weibo.com:80/alicdn/4660943680966268.flv
 河南卫视 高清,http://39.135.138.8:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls#https://www.navchina.cf/IPTV/hn.php?id=hnws#https://www.navchina.cf/IPTV/zhengzhou.php?id=hnws
