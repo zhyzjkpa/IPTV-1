@@ -263,14 +263,14 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 台灣,#genre#
-ELTA奥运1台,rtmp://59.124.75.153/sat/md011
-ELTA奥运3台,rtmp://59.124.75.153/sat/md011
-ELEVEN+,rtmp://59.124.75.153/sat/md021
+ELTA奧運1台,rtmp://59.124.75.153/sat/md011
+ELTA奧運3台,rtmp://59.124.75.153/sat/md011
 ELTA體育1台4K,rtmp://59.124.75.153/sat/md031#rtmp://59.124.75.153/sat/md041
+ELEVEN+,rtmp://59.124.75.153/sat/md021
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8#rtmp://59.124.75.153/sat/tv111
 華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
@@ -283,8 +283,8 @@ ELTA體育1台4K,rtmp://59.124.75.153/sat/md031#rtmp://59.124.75.153/sat/md041
 民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=dy
 民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-302/playlist.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=tw#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
 原住民频道,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
@@ -293,7 +293,7 @@ ELTA體育1台4K,rtmp://59.124.75.153/sat/md031#rtmp://59.124.75.153/sat/md041
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://59.124.75.153:1935/sat/tv571
-東森超視,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
+东森超视,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8#rtmp://59.124.75.153/sat/tv552#rtmp://59.124.75.1530:1935/sat/tv551
 TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
@@ -302,12 +302,12 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
 三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 三立台灣台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-緯來體育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-緯來日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
-緯來戲劇台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-緯來精采台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
-緯來綜合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+纬来精采,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
 卫视电影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
