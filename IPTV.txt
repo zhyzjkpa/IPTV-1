@@ -165,23 +165,23 @@ DOX 4K,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122601
 赣州综合频道 高清,http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8
 
 中国广播,#genre#
-中国之声,http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
-经济之声,http://ngcdn001.cnr.cn/live/jjzs48/index.m3u8
-音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
-经典音乐广播,http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
-中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
-神州之声,http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
-大湾区之声,http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
-香港之声,http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
-民族之声,http://ngcdn009.cnr.cn/live/mzzs48/index.m3u8
-文艺之声,http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
-哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb48/index.m3u8
-老年之声,http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
-中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
-阅读之声,http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
-中国乡村之声,http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
-藏语广播,http://ngcdn012.cnr.cn/live/zygb48/index.m3u8
-维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb48/index.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
 CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
 CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
@@ -361,6 +361,10 @@ Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 ★BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 BBC World News,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
+beIN Sports 1 Asia,https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+beIN Sports 1 English,https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+beIN Sports 2 English,https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
