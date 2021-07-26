@@ -216,7 +216,7 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108#https://www.navchina.cf/IPTV/icable.php?id=38
 有线新闻台,https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110#https://www.navchina.cf/IPTV/icable.php?id=39
-★有線綜合娛樂台,http://livetv.dnsfor.me:80/channel.7.m3u8
+有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 有線奧運601台,https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
 有線奧運602台,https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
 有線高清603台,https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
