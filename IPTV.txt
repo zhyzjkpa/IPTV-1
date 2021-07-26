@@ -217,11 +217,11 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 有线新闻台,https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110#https://www.navchina.cf/IPTV/icable.php?id=39
 ★有線綜合娛樂台,http://livetv.dnsfor.me:80/channel.7.m3u8
-有線奧運601台,https://api.leonardpark.dev/live/icable/601#https://www.navchina.cf/IPTV/icable.php?id=61
-有線奧運602台,https://api.leonardpark.dev/live/icable/602#https://www.navchina.cf/IPTV/icable.php?id=62
-有線高清603台,https://api.leonardpark.dev/live/icable/603#https://www.navchina.cf/IPTV/icable.php?id=63
-有線奧運604台,https://api.leonardpark.dev/live/icable/604#https://www.navchina.cf/IPTV/icable.php?id=64
-有線奧運605台,https://api.leonardpark.dev/live/icable/605#https://www.navchina.cf/IPTV/icable.php?id=65
+有線奧運601台,https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
+有線奧運602台,https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
+有線高清603台,https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
+有線奧運604台,https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
+有線奧運605台,https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
 有線18台,rtmp://161.202.204.248:1935/sat/hk042
 ★有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
