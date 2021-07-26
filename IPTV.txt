@@ -263,9 +263,9 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 台灣,#genre#
-ELTA奧運1台,rtmp://59.124.75.153/sat/md011
-ELTA奧運2台,rtmp://59.124.75.153/sat/md021
-ELTA奧運3台,rtmp://59.124.75.153/sat/md031
+ELTA奧運1台,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8#rtmp://59.124.75.153/sat/md011
+ELTA奧運2台,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8#rtmp://59.124.75.153/sat/md021
+ELTA奧運3台,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8#rtmp://59.124.75.153/sat/md031
 ELTA體育1台 4K,rtmp://59.124.75.153/sat/md041
 ELTA體育3台,rtmp://59.124.75.153/sat/md051
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
@@ -295,6 +295,7 @@ ELTA體育3台,rtmp://59.124.75.153/sat/md051
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://59.124.75.153:1935/sat/tv571
 东森超视,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
+东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8#rtmp://59.124.75.153/sat/tv552#rtmp://59.124.75.1530:1935/sat/tv551
 TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
@@ -303,6 +304,8 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
 三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 三立台灣台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
 纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
 纬来精采,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
