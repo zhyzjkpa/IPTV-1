@@ -75,7 +75,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 中国卫视,#genre#
-湖南卫视,http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://124.232.231.246:6610/000000001001/201500000219/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 浙江卫视,http://39.134.24.24/PLTV/88888888/224/3221225845/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -119,7 +119,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 北京纪实,http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8#http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8#http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
 上海纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
-金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
+金鹰纪实,http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
 劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
 中国交通湖北,https://tv.lanjingfm.com/cctbn/hubei.m3u8
