@@ -21,6 +21,7 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 河南都市,https://www.navchina.cf/IPTV/hn.php?id=dspd
 郑州新闻综合,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzxwzh
 郑州都市生活,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzdssh
+广东体育 高清,http://api.phoves.com.cn/iptv/gudou3.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
 CCTV1,http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://39.135.138.8:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://39.135.138.8:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
@@ -53,7 +54,7 @@ CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/
 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls#http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 央视精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls#http://hdtv.haust.edu.cn/hls/hls184a520.m3u8
 央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-卫生健康,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wsjk
+卫生健康,http://api.phoves.com.cn/iptv/gudou3.php?id=weishengjiankang_1500&/PLTV/hls.smil.m3u8
 老故事,http://39.135.138.5:6610/PLTV/88888888/224/3221225517/2/index.m3u8
 中学生,http://39.135.138.5:6610/PLTV/88888888/224/3221225515/2/index.m3u8
 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
@@ -128,7 +129,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 中国交通海南,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 中国交通重庆,https://tv.lanjingfm.com/cctbn/chongqing.m3u8
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-广东综艺,http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
+广东影视 4K,http://api.phoves.com.cn/iptv/gudou3.php?id=gdyingshi4k_30000&/PLTV/hls.smil.m3u8
+广东综艺 4K,http://api.phoves.com.cn/iptv/gudou3.php?id=GDZYHD4K_38000&/PLTV/hls.smil.m3u8
 南国都市 4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
 欢笑剧场,http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
 芒果TV 4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
