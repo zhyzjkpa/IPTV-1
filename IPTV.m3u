@@ -59,6 +59,10 @@ https://www.navchina.cf/IPTV/zhengzhou.php?id=zzxwzh
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 郑州都市生活
 https://www.navchina.cf/IPTV/zhengzhou.php?id=zzdssh
 
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/广东体育.png" group-title="中国央视", 广东体育 高清
+http://api.phoves.com.cn/iptv/gudou3.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-logo="http://tv.sason.xyz/logo/cctv1.png" group-title="中国央视", CCTV-1 综合 高清
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
