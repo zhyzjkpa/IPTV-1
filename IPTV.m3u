@@ -38,22 +38,19 @@ https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 大象新闻
 http://gzvod.hntv.tv/live/tljul10.m3u8?txSecret=794d5ea6d04413719673cbbd0fc79f16&txTime=610362DC
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 河南交通广播
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南新闻广播.jpg" group-title="中国央视", 河南交通广播
 http://plmedia.live.weibo.com:80/alicdn/4660943680966268.flv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 河南卫视 高清
-http://39.135.138.8:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 河南新闻
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南新闻.jpg" group-title="中国央视", 河南新闻
 https://www.navchina.cf/IPTV/hn.php?id=xwpd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 河南民生
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南民生.jpg" group-title="中国央视", 河南民生
 https://www.navchina.cf/IPTV/hn.php?id=mspd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 河南公共
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南公共.jpg" group-title="中国央视", 河南公共
 https://www.navchina.cf/IPTV/hn.php?id=ggpd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 河南都市
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南都市.jpg" group-title="中国央视", 河南都市
 https://www.navchina.cf/IPTV/hn.php?id=dspd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 郑州新闻综合
