@@ -21,6 +21,8 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 河南都市,https://www.navchina.cf/IPTV/hn.php?id=dspd
 郑州新闻综合,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzxwzh
 郑州都市生活,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzdssh
+咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+咪咕视频·PP体育2,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
 广东体育 高清,http://api.phoves.com.cn/iptv/gudou3.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
 CCTV1,http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://39.134.24.24/PLTV/88888888/224/3221225831/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
