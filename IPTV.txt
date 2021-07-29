@@ -211,7 +211,7 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8#https://www.navchina.cf/IPTV/icable.php?id=76
-香港开电视,#https://cdn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#https://cdn.hkdtmb.com/hls/81b/index.m3u8#http://61.238.6.49:8000/bysid/1
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
