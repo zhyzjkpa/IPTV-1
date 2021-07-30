@@ -1,7 +1,6 @@
 中国央视,#genre#
 CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
-央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
@@ -11,6 +10,7 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
+央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 浙江中国蓝新闻,http://plmedia20.live.weibo.com:80/alicdn/4662033108699160.flv
 大象新闻,http://gzvod.hntv.tv/live/tljul10.m3u8?txSecret=794d5ea6d04413719673cbbd0fc79f16&txTime=610362DC
 河南交通广播,http://plmedia.live.weibo.com:80/alicdn/4660943680966268.flv
@@ -21,8 +21,7 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 河南都市,https://www.navchina.cf/IPTV/hn.php?id=dspd
 郑州新闻综合,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzxwzh
 郑州都市生活,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzdssh
-咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-咪咕视频·PP体育2,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
+咪咕视频·PP体育,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8#http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
 广东体育 高清,http://api.phoves.com.cn/iptv/gudou3.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
 CCTV1,http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://39.134.24.24/PLTV/88888888/224/3221225831/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -308,7 +307,7 @@ ELTA體育3台,rtmp://59.124.75.153/sat/md051
 东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8#rtmp://59.124.75.153/sat/tv552#rtmp://59.124.75.1530:1935/sat/tv551
-TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
+TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_twn/playlist.m3u8
 三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
@@ -323,6 +322,7 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
 卫视电影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
