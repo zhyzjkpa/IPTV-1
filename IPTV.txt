@@ -22,14 +22,14 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 郑州新闻综合,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzxwzh
 郑州都市生活,https://www.navchina.cf/IPTV/zhengzhou.php?id=zzdssh
 咪咕视频·PP体育,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8#http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
-广东体育 高清,http://api.phoves.com.cn/iptv/gudou3.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
+广东体育 高清,http://113.64.147.67:808/hls/18/index.m3u8
 CCTV1,http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://39.134.24.24/PLTV/88888888/224/3221225831/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8
 CCTV4,http://39.135.140.104:6610/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-4 中文国际美洲 高清,http://42.81.144.99:80/live.cache.cmvideo.cn/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
-CCTV-4 中文国际欧洲 高清,http://42.81.144.99:80/live.cache.cmvideo.cn/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
-CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8#http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227537/index.m3u8#http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8
+CCTV-4 中文国际美洲 高清,http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?ProgramID=&encrypt=1
+CCTV-4 中文国际欧洲 高清,http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?ProgramID=&encrypt=1
+CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://39.135.140.104:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls#http://111.20.105.60:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV6,http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 CCTV7,http://39.134.39.39/PLTV/88888888/224/3221226255/index.m3u8
@@ -228,10 +228,10 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 ★有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 有線奧運601台,https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
 有線奧運602台,https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
-有線高清603台,https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
+有線高清603台,http://45.11.92.252/luck/940049/13#https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
 有線奧運604台,https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
 有線奧運605台,https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
-有線18台,rtmp://161.202.204.248:1935/sat/hk042
+有線18台,rtmp://161.202.204.248:1935/sat/hk042#http://45.11.92.252/luck/940049/14
 ★有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -314,7 +314,7 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_t
 三立台灣台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
-非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
 纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
 纬来精采,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
@@ -326,6 +326,7 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_t
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+龙祥时代,http://113.64.147.67:808/hls/38/index.m3u8
 ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 FOX體育,rtmp://59.124.75.153:1935/sat/tv731
