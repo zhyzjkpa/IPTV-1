@@ -785,10 +785,22 @@ http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/522_pic_1624000234.png" group-title="台灣", ELTA奧運3台
 http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZST.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="台灣", ELTA體育1台 4K
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/520_pic_1624000146.png" group-title="台灣", ELTA奧運1台
+rtmp://59.124.75.153/sat/md011
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/521_pic_1624000177.png" group-title="台灣", ELTA奧運2台
+rtmp://59.124.75.153/sat/md021
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/522_pic_1624000234.png" group-title="台灣", ELTA奧運3台
+rtmp://59.124.75.153/sat/md031
+
+#EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="台灣", ELTA體育1台 4K
 rtmp://59.124.75.153/sat/md041
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="台灣", ELTA體育3台
+#EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="台灣", ELTA體育2台
+rtmp://59.124.75.153/sat/md051
+
+#EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="台灣", ELTA體育3台
 rtmp://59.124.75.153/sat/md051
 
 #EXTINF:-1 tvg-id="ZST.TW" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="台灣", 中視 HD
