@@ -1,13 +1,13 @@
 # m3u格式直播源
 推荐使用 Perfect IPTV Player 或 Tivimate 进行观看
-- M3U:https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.m3u （短网址：https://git.io/JBD0q）
+- M3U:https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.m3u （短网址：https://git.io/JBD0q ）
 - 中国加速M3U-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
 - 中国加速M3U-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.m3u
 - 中国加速M3U-3：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
 - 中国加速M3U-4：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
 - EPG 1:http://epg.51zmt.top:8000/e.xml
-- i-cable EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml
-- nowTV EPG:https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz
+- i-cable EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml （短网址：https://git.io/JkwQI ）
+- nowTV EPG:https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz （短网址：https://git.io/JB5sv ）
 
 # txt格式直播源
 推荐使用 DIYP影音 进行观看
