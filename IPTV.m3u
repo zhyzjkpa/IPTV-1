@@ -35,32 +35,8 @@ https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播10
 https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 大象新闻
-http://gzvod.hntv.tv/live/tljul10.m3u8?txSecret=794d5ea6d04413719673cbbd0fc79f16&txTime=610362DC
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南新闻广播.jpg" group-title="中国央视", 河南交通广播
-http://plmedia.live.weibo.com:80/alicdn/4660943680966268.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南新闻.jpg" group-title="中国央视", 河南新闻
-https://www.navchina.cf/IPTV/hn.php?id=xwpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南民生.jpg" group-title="中国央视", 河南民生
-https://www.navchina.cf/IPTV/hn.php?id=mspd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南公共.jpg" group-title="中国央视", 河南公共
-https://www.navchina.cf/IPTV/hn.php?id=ggpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/河南都市.jpg" group-title="中国央视", 河南都市
-https://www.navchina.cf/IPTV/hn.php?id=dspd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 郑州新闻综合
-https://www.navchina.cf/IPTV/zhengzhou.php?id=zzxwzh
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国央视", 郑州都市生活
-https://www.navchina.cf/IPTV/zhengzhou.php?id=zzdssh
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/广东体育.png" group-title="中国央视", 广东体育 高清
-http://api.phoves.com.cn/iptv/gudou3.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
+http://113.64.147.67:808/hls/18/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国央视", CCTV-1 综合 高清
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -75,10 +51,10 @@ http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4America.jpg" group-title="中国央视", CCTV-4 中文国际美洲 高清
-http://183.131.128.233/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?ProgramID=&encrypt=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV4Europe.jpg" group-title="中国央视", CCTV-4 中文国际欧洲 高清
-http://183.131.128.233/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?ProgramID=&encrypt=1
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国央视", CCTV-5 体育 高清
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
@@ -185,13 +161,13 @@ http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
 #EXTINF:-1 tvg-id="75" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="中国央视", CETV-3
 http://183.207.248.71/gitv/live1/G_CETV-3/G_CETV-3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="中国央视", CETV-4
+#EXTINF:-1 tvg-id="7245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="中国央视", CETV-4
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6581" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="中国央视", CETV 早期教育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225513/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="中国央视", CGTN
+#EXTINF:-1 tvg-id="20" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="中国央视", CGTN
 http://hdtv.haust.edu.cn/hls/hls185a571.m3u8
 
 #EXTINF:-1 tvg-id="891" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="中国央视", CGTN Documentary
