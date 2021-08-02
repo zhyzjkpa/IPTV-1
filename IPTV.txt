@@ -371,6 +371,21 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
+Thai OLYMPIC 1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+Thai OLYMPIC 2,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+Thai OLYMPIC 3,http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+Thai OLYMPIC 4,http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+Thai OLYMPIC 5,http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+Thai OLYMPIC 6,http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+Thai OLYMPIC 7,http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+Thai OLYMPIC 8,http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+Thai OLYMPIC 9,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+Thai OLYMPIC 10,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+Thai OLYMPIC 11,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+Thai OLYMPIC 12,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+Thai OLYMPIC 13,http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+Thai OLYMPIC 14,http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+Thai OLYMPIC 15,http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
 Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
