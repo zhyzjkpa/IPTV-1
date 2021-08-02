@@ -5,9 +5,9 @@
 - 中国加速M3U-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.m3u
 - 中国加速M3U-3：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
 - 中国加速M3U-4：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
-- My Test EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml
-- EPG1:http://epg.51zmt.top:8000/e.xml
-- EPG2:https://raw.githubusercontent.com/pcccw/Ark/main/EPG/guide_71.xml
+- EPG 1:http://epg.51zmt.top:8000/e.xml
+- i-cable EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml
+- nowTV EPG:https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz
 
 # txt格式直播源
 推荐使用 DIYP影音 进行观看
