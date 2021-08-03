@@ -305,9 +305,9 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 台灣,#genre#
-ELTA奧運1台,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8#rtmp://59.124.75.153/sat/md011
-ELTA奧運2台,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8#rtmp://59.124.75.153/sat/md021
-ELTA奧運3台,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8#rtmp://59.124.75.153/sat/md031
+ELTA奧運1台,rtmp://59.124.75.153/sat/md011
+ELTA奧運2台,rtmp://59.124.75.153/sat/md021
+ELTA奧運3台,rtmp://59.124.75.153/sat/md031
 ELTA體育1台 4K,rtmp://59.124.75.153/sat/md041
 ELTA體育3台,rtmp://59.124.75.153/sat/md051
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
@@ -324,12 +324,12 @@ ELTA體育3台,rtmp://59.124.75.153/sat/md051
 公视,http://sl.tmtv.me/20201226/ubtl.php?cid=361
 民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8#rtmp://59.124.75.153/sat/tv051
 民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=dy
-民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-302/playlist.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=tw#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=tw
 民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
-原住民频道,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+原住民频道,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b4000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
 寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 ★寰宇新聞台灣台,http://sl.tmtv.me/20201226/ubtl.php?cid=87
 中天綜合 HD,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
