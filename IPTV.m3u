@@ -626,19 +626,19 @@ https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 tvg-id="301 綜合娛樂台 *" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEFamilyEntertainmentChannelHD.png" group-title="香港", ★有線綜合娛樂台
 http://livetv.dnsfor.me:80/channel.7.m3u8
 
-#EXTINF:-1 tvg-id="601 高清體育台 *" tvg-logo="https://ftp.i-cable.com/iott_images/601_landscape.png" group-title="香港", 有線奧運601
+#EXTINF:-1 tvg-id="601 高清體育台 *" tvg-logo="https://ftp.i-cable.com/iott_images/601_landscape.png" group-title="香港", 有線奧運601台
 https://www.navchina.cf/IPTV/icable.php?id=61
 
-#EXTINF:-1 tvg-id="602 Sports Plus 1 *" tvg-logo="https://ftp.i-cable.com/iott_images/602_landscape.png" group-title="香港", 有線奧運602
+#EXTINF:-1 tvg-id="602 Sports Plus 1 *" tvg-logo="https://ftp.i-cable.com/iott_images/602_landscape.png" group-title="香港", 有線奧運602台
 https://www.navchina.cf/IPTV/icable.php?id=62
 
 #EXTINF:-1 tvg-id="603 高清603台 *" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/hongkong603.png" group-title="香港", 有線高清603台
 https://www.navchina.cf/IPTV/icable.php?id=63
 
-#EXTINF:-1 tvg-id="604 Sports Plus 2 *" tvg-logo="https://ftp.i-cable.com/iott_images/604_landscape.png" group-title="香港", 有線奧運604
+#EXTINF:-1 tvg-id="604 Sports Plus 2 *" tvg-logo="https://ftp.i-cable.com/iott_images/604_landscape.png" group-title="香港", 有線奧運604台
 https://www.navchina.cf/IPTV/icable.php?id=64
 
-#EXTINF:-1 tvg-id="605 Sports Plus 3 *" tvg-logo="https://ftp.i-cable.com/iott_images/605_landscape.png" group-title="香港", 有線奧運605
+#EXTINF:-1 tvg-id="605 Sports Plus 3 *" tvg-logo="https://ftp.i-cable.com/iott_images/605_landscape.png" group-title="香港", 有線奧運605台
 https://www.navchina.cf/IPTV/icable.php?id=65
 
 #EXTINF:-1 tvg-id="618 有線18台" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEChannel18.png" group-title="香港", 有線18台
