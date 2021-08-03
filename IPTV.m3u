@@ -615,13 +615,13 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108 財經資訊台 *" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="香港", 有線財經資訊台
-https://api.leonardpark.dev/live/icable/108
+https://www.navchina.cf/IPTV/icable.php?id=38
 
 #EXTINF:-1 tvg-id="109 新聞台 *" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLENewsChannelHD.png" group-title="香港", 有線新聞台
-https://api.leonardpark.dev/live/icable/109
+https://www.navchina.cf/IPTV/icable.php?id=37
 
 #EXTINF:-1 tvg-id="110 直播新聞台 *" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLELiveNewsChannel.png" group-title="香港", 有線直播新聞台
-https://api.leonardpark.dev/live/icable/110
+https://www.navchina.cf/IPTV/icable.php?id=39
 
 #EXTINF:-1 tvg-id="301 綜合娛樂台 *" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEFamilyEntertainmentChannelHD.png" group-title="香港", ★有線綜合娛樂台
 http://livetv.dnsfor.me:80/channel.7.m3u8
