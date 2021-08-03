@@ -1,22 +1,20 @@
 # m3u格式直播源
-推荐使用 Perfect IPTV Player 或 Tivimate 进行观看
+推荐Android设备使用 Perfect IPTV Player 或 Tivimate 进行观看
 - M3U:https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.m3u （短网址：https://git.io/JBD0q ）
 - 中国加速M3U-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
-- 中国加速M3U-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.m3u
-- 中国加速M3U-3：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
-- 中国加速M3U-4：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
+- 中国加速M3U-2：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
+- 中国加速M3U-3：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
 - EPG 1:http://epg.51zmt.top:8000/e.xml
 - i-cable EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml （短网址：https://git.io/JkwQI ）
 - nowTV EPG:https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz （短网址：https://git.io/JB5sv ）
 
 # txt格式直播源
-推荐使用 DIYP影音 进行观看
+推荐Android设备使用 DIYP影音 进行观看
 - EPG:http://epg.51zmt.top:8000/api/diyp/
 - TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt （短网址：https://git.io/JBD02）
 - 中国加速TXT-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
-- 中国加速TXT-2：https://github.rc1844.workers.dev/LiuYi0526/IPTV/raw/master/IPTV.txt
-- 中国加速TXT-3：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.txt
-- 中国加速TXT-4：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.txt
+- 中国加速TXT-2：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.txt
+- 中国加速TXT-3：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.txt
 
 # 使用指南
 部分直播源需要特定地区ip或翻墙才能正常播放，教育网需IPv6网络观看，[检测地址](http://test-ipv6.com/)
@@ -25,7 +23,6 @@
 
 GitHub：[主页](https://github.com/LiuYi0526/IPTV)  [文件打包](https://github.com/LiuYi0526/IPTV/archive/refs/heads/master.zip)  
 镜像1：[主页](https://hub.fastgit.org/LiuYi0526/IPTV)  [文件打包](https://hub.fastgit.org/LiuYi0526/IPTV/archive/master.zip)  
-镜像2：[主页](https://github.rc1844.workers.dev/LiuYi0526/IPTV)  [文件打包](https://github.rc1844.workers.dev/LiuYi0526/IPTV/archive/master.zip) 
 
 ### 关于扫源  
 那么多不同来源的地址，难免会失效，而我不可能每次都能及时更新，这里放几个给小白使用的工具链接，可以试着扫一下  
