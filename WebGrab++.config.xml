@@ -25,18 +25,11 @@
 
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="001" xmltv_id="01 香港開電視 *">01 香港開電視 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="002" xmltv_id="02 香港國際財經台 *">02 香港國際財經台 *</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="003" xmltv_id="03 香港開電視">03 香港開電視</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="005" xmltv_id="05 香港國際財經台">05 香港國際財經台</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="108" xmltv_id="108 財經資訊台 *">108 財經資訊台 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="109" xmltv_id="109 新聞台 *">109 新聞台 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="110" xmltv_id="110 直播新聞台 *">110 直播新聞台 *</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="151" xmltv_id="151 財經資訊台">151 財經資訊台</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="152" xmltv_id="152 新聞台">152 新聞台</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="153" xmltv_id="153 直播新聞台">153 直播新聞台</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="201" xmltv_id="201 有線電影台 *">201 有線電影台 *</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="251" xmltv_id="251 有線電影台">251 有線電影台</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="301" xmltv_id="301 綜合娛樂台 *">251 有線電影台 *</channel>
-	<channel update="i" site="epg.i-cable.com.chinese" site_id="371" xmltv_id="371 綜合娛樂台">371 綜合娛樂台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="301" xmltv_id="301 綜合娛樂台 *">301 綜合娛樂台 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="601" xmltv_id="601 高清體育台 *">601 高清體育台 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="602" xmltv_id="602 Sports Plus 1 *">602 Sports Plus 1 *</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="603" xmltv_id="603 高清603台 *">603 高清603台 *</channel>
