@@ -753,15 +753,6 @@ http://202.175.127.77/live/show/ch2/index.m3u8
 http://202.175.127.77/live/show/ch3/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/520_pic_1624000146.png" group-title="台灣", ELTA奧運1台
-http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/521_pic_1624000177.png" group-title="台灣", ELTA奧運2台
-http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/522_pic_1624000234.png" group-title="台灣", ELTA奧運3台
-http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/520_pic_1624000146.png" group-title="台灣", ELTA奧運1台
 rtmp://59.124.75.153/sat/md011
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/521_pic_1624000177.png" group-title="台灣", ELTA奧運2台
@@ -834,19 +825,19 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/sc/msxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣", 民視新聞台 HD
-http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣", 民視新聞台 HD
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7134" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台灣", 民視台灣台 HD
 http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7134" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台灣", 民視台灣台 HD
-http://seb.sason.top/ptv/ftv.php?id=tw
+http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7134" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台灣", 民視台灣台 HD
-http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+http://seb.sason.top/ptv/ftv.php?id=tw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002111934260-L.jpg" group-title="台灣", 民視影劇
 http://seb.sason.top/ptv/ftv.php?id=yj
@@ -858,7 +849,7 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://seb.sason.top/ptv/ftv.php?id=ly
 
 #EXTINF:-1 tvg-id="6034" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="台灣", 原住民族電視台
-https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b4000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
 
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF21500270-L.jpg" group-title="台灣", 寰宇新聞台
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
