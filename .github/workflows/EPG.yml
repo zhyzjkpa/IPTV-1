@@ -10,10 +10,10 @@ jobs:
     - name: Download WebGrab+Plus
       run: |
         wget http://webgrabplus.com/sites/default/files/download/SW/V3.2.0/WebGrabPlus_V3.2_install.tar.gz
-    - name: Extract
+    - name: Extract WebGrabPlus_V3.2_install.tar.gz
       run: |
         tar -zxvf WebGrabPlus_V3.2_install.tar.gz
-    - name: Install
+    - name: Install WebGrab+Plus
       run: |
         cd .wg++
         ./install.sh
@@ -31,8 +31,9 @@ jobs:
         wget http://epg.51zmt.top:8000/e.xml
         wget https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz
         gunzip ./epg_ripper_HK1.xml.gz
-    - name: Install
+    - name: Install xmltv
       run: |
+        sudo apt update
         sudo apt -y install xmltv
     - name: Merge EPG
       run: |
