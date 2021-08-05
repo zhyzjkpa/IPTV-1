@@ -4,14 +4,12 @@
 - 中国加速M3U-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
 - 中国加速M3U-2：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
 - 中国加速M3U-3：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
-- EPG 1:http://epg.51zmt.top:8000/e.xml
-- i-cable EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml （短网址：https://git.io/JkwQI ）
-- nowTV EPG:https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz （短网址：https://git.io/JB5sv ）
+- EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide_merge.xml （短网址：https://git.io/JRtUH ）
 
 # txt格式直播源
 推荐Android设备使用 DIYP影音 进行观看
 - EPG:http://epg.51zmt.top:8000/api/diyp/
-- TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt （短网址：https://git.io/JBD02）
+- TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt （短网址：https://git.io/JBD02 ）
 - 中国加速TXT-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
 - 中国加速TXT-2：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.txt
 - 中国加速TXT-3：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.txt
