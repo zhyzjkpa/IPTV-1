@@ -863,6 +863,7 @@ http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 
+#EXTINF:-1 tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台灣",中天娛樂 HD
 #EXTINF:-1 tvg-id="6069" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣", 東森新聞 HD
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 
