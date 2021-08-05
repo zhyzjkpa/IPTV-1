@@ -334,6 +334,7 @@ ELTA體育3台,rtmp://59.124.75.153/sat/md051
 ★寰宇新聞台灣台,http://sl.tmtv.me/20201226/ubtl.php?cid=87
 中天綜合 HD,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://59.124.75.153:1935/sat/tv571
 东森超视,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
@@ -344,7 +345,7 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_t
 三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-三立台灣台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+三立台灣台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8#http://125.227.210.55:15714/VideoInput/play.ts
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
