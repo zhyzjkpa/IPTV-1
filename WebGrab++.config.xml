@@ -43,4 +43,5 @@
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="668" xmltv_id="668 賽馬1台">668 賽馬1台</channel>
 	<channel update="i" site="epg.i-cable.com.chinese" site_id="669" xmltv_id="669 賽馬2台">669 賽馬2台</channel>
 	
+	<channel update="i" site="merge-xmltv" site_id="" xmltv_id="dummy">dummy</channel>
 </settings>
