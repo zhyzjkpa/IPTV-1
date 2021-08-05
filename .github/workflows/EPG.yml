@@ -30,7 +30,7 @@ jobs:
         cd .wg++
         wget http://epg.51zmt.top:8000/e.xml
         wget https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz
-        gzip ./epg_ripper_HK1.xml.gz -d .wg++
+        gunzip ./epg_ripper_HK1.xml.gz
     - name: Install
       run: |
         sudo apt -y install xmltv
