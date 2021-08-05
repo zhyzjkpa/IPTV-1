@@ -38,8 +38,8 @@ jobs:
     - name: Merge EPG
       run: |
         cd .wg++
-        tv_cat guide.xml e.xml > temp.xml
-        tv_cat temp.xml epg_ripper_HK1.xml > guide_merge.xml
+        tv_cat guide.xml epg_ripper_HK1.xml > HK.xml
+        tv_cat HK.xml e.xml > guide_merge.xml
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
