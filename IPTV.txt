@@ -259,11 +259,7 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 有线新闻台,https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110#https://www.navchina.cf/IPTV/icable.php?id=39
 ★有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
-有線奧運601台,https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
-有線奧運602台,https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
-有線高清603台,http://45.11.92.252/luck/940049/13#https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
-有線奧運604台,https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
-有線奧運605台,https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
+有線高清603台,http://45.11.92.252/luck/940049/13
 有線18台,rtmp://161.202.204.248:1935/sat/hk042#http://45.11.92.252/luck/940049/14
 ★有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -305,9 +301,6 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 台灣,#genre#
-ELTA奧運1台,rtmp://59.124.75.153/sat/md011
-ELTA奧運2台,rtmp://59.124.75.153/sat/md021
-ELTA奧運3台,rtmp://59.124.75.153/sat/md031
 ELTA體育1台 4K,rtmp://59.124.75.153/sat/md041
 ELTA體育3台,rtmp://59.124.75.153/sat/md051
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
@@ -406,21 +399,6 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-Thai OLYMPIC,http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
 Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
