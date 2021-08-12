@@ -439,8 +439,7 @@ NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/mas
 NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 NHK WORLD JAPAN HD,https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-★Olympic Channel,https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-★Olympic Channel 2,https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+Olympic Channel,https://www.navchina.cf/IPTV/Olympics.php
 RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 Russia Today Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 Russia Today Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
