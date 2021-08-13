@@ -301,12 +301,6 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 台灣,#genre#
-1,rtmp://59.124.75.153/sat/md011
-2,rtmp://59.124.75.153/sat/md021
-3,rtmp://59.124.75.153/sat/md031
-4,rtmp://59.124.75.153/sat/md041
-6,rtmp://59.124.75.153/sat/md061
-7,rtmp://59.124.75.153/sat/md071
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
@@ -358,9 +352,9 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_t
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 龙祥时代,http://113.64.147.67:808/hls/38/index.m3u8
-ELTA體育1台,rtmp://59.124.75.153/sat/md051
-ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+爱尔达体育1,rtmp://59.124.75.153/sat/md051
+爱尔达综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+爱尔达影剧,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 FOX體育,rtmp://59.124.75.153:1935/sat/tv731
 FOX2體育,rtmp://59.124.75.153/sat/tv741
 FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
