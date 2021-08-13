@@ -255,9 +255,9 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#https://cdn.hkdtmb.com/hls/96/index.m3u8#http://61.238.6.49:8000/bysid/96
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108#https://www.navchina.cf/IPTV/icable.php?id=38
-有线新闻台,https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37
-有線直播新聞台,https://api.leonardpark.dev/live/icable/110#https://www.navchina.cf/IPTV/icable.php?id=39
+有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38#https://api.leonardpark.dev/live/icable/108
+有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37#https://api.leonardpark.dev/live/icable/109
+有線直播新聞台,https://www.navchina.cf/IPTV/icable.php?id=39#https://api.leonardpark.dev/live/icable/110
 ★有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 有線高清603台,http://45.11.92.252/luck/940049/13
 有線18台,rtmp://161.202.204.248:1935/sat/hk042#http://45.11.92.252/luck/940049/14
