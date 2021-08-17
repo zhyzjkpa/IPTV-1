@@ -378,7 +378,7 @@ TLC旅遊生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
 海外,#genre#
-新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8#http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
@@ -398,14 +398,19 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
+ABC News (Australia),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcau.m3u8
+ABC News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcus.m3u8
 Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
-★BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-BBC World News,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
+Arirang TV World,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
+BBC News,http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 beIN Sports 1 Asia,https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 beIN Sports 1 English,https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 beIN Sports 2 English,https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+beIN Sports 1 Premium,http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+beIN Sports 2 Premium,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
@@ -416,16 +421,13 @@ Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97
 ★CNBC,https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
 CNBC World,http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-CNN,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
-Deutsche Welle (English),https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+Deutsche Welle (English),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/DW.m3u8#https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 DPRK Central Television,https://tv.nknews.org/tvhls/stream.m3u8
-Euronews,http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+Euronews English,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/euronews.m3u8
 FOX Business,https://gma2.blab.email/espnu.m3u8
 Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-FOX SPORTS,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
-FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
-FOX SPORTS 3,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
-France 24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+France 24,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/france24.m3u8#http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 IRIB Press TV,https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2050325877_b644100_slen.m3u8
 JTBC,http://211.245.55.198:1024/m2u/239.192.58.7:49220
 KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
@@ -435,13 +437,17 @@ KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+NBC News NOW,https://nbcnews2.akamaized.net/hls/live/723426/nbc-news1023105345-ua/master.m3u8
 NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 NHK WORLD JAPAN HD,https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NTD East,https://live02.ntdtv.com/NTDA/tracks-v5a1/mono.m3u8
+NTD West,https://live02.ntdtv.com/NTD-West/tracks-v5a1/mono.m3u8
+NTD UK,https://live01.ntdtv.com/NTD-UK/tracks-v5a1/mono.m3u8
 Olympic Channel,https://www.navchina.cf/IPTV/Olympics.php
 RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-Russia Today Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-Russia Today Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
+RT Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+RT Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
 Россия 24,http://uiptv.do.am/1ufc/000000006/playlist.m3u8#http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01#http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8 
 SBS Sports,https://www.navchina.cf/IPTV/sbs.php?id=S02
