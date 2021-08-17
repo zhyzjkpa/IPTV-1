@@ -428,7 +428,6 @@ Euronews English,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab8594
 FOX Business,https://gma2.blab.email/espnu.m3u8
 Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 France 24,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/france24.m3u8#http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
-IRIB Press TV,https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2050325877_b644100_slen.m3u8
 JTBC,http://211.245.55.198:1024/m2u/239.192.58.7:49220
 KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 KBS 2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
@@ -445,6 +444,7 @@ NTD East,https://live02.ntdtv.com/NTDA/tracks-v5a1/mono.m3u8
 NTD West,https://live02.ntdtv.com/NTD-West/tracks-v5a1/mono.m3u8
 NTD UK,https://live01.ntdtv.com/NTD-UK/tracks-v5a1/mono.m3u8
 Olympic Channel,https://www.navchina.cf/IPTV/Olympics.php
+Press TV,https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w359289202_b944100_slen.m3u8
 RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 RT Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 RT Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
