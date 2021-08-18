@@ -399,6 +399,8 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
+Tolo News,https://afghantv.live/tolonews/tracks-v1a1/mono.m3u8?token=48e2d4dcadeba8a8d1736036310e0a7952f67079-618ac4617ad010e9c3b6acbde9ac8fe2-1629378445-1629292045
+RTA Mili TV,https://afghantv.live/rta/tracks-v1a1/mono.m3u8?token=865c34d29908a0d75bce25068eb375b0c9288ddc-c005927e694f768838ed227e34136dfc-1629378672-1629292272
 ABC News (Australia),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcau.m3u8
 ABC News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcus.m3u8
 Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
