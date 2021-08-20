@@ -364,9 +364,10 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Afghan,#genre#
-Tolo News,https://afghantv.live/tolonews/tracks-v1/mono.m3u8?token=66dc01dca04cf940d37d3b1765c8d219b02d1fb5-6dcd49a2d4ddc2bdf6b5b2d65b9e3f5b-1629466865-1629380465
+Tolo News,https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+Tolo News,https://afghantv.live/tolonews/tracks-v1a1/mono.m3u8?token=cd07b8806e2d4d78bd88081a6ef46736bffe1c85-c097160d657634d83a6124234d037f82-1629550336-1629463936
 Ariana News,https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-RTA,https://afghantv.live/rta/tracks-v1a1/mono.m3u8?token=9fcd98132ea8630316607ded30bb2d77ec6079c6-f29f11dd1543c7959ac937d79f3b8266-1629466983-1629380583
+RTA,https://afghantv.live/rta/tracks-v1a1/mono.m3u8?token=e62f8282f19a93f2c5369b0b4178feb41a2f67d6-752b50eebf4769e3edf7ba2e0a514c28-1629551104-1629464704
 
 Global,#genre#
 ABC News (Australia),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcau.m3u8
@@ -386,6 +387,7 @@ beIN Sports 2 Premium,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 CBC News,https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 CBSN,https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
