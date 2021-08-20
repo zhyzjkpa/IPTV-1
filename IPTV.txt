@@ -237,10 +237,10 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38#https://api.leonardpark.dev/live/icable/108
 有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37#rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#https://api.leonardpark.dev/live/icable/109
 有線直播新聞台,https://www.navchina.cf/IPTV/icable.php?id=39#https://api.leonardpark.dev/live/icable/110
-★有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
+有線綜合娛樂台 ★,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 有線高清603台,http://45.11.92.252/luck/940049/13
 有線18台,rtmp://161.202.204.248:1935/sat/hk042#http://45.11.92.252/luck/940049/14
-★有線電影台 HD,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
+有線電影台 HD ★,http://aliplay.17zuoye.cn/live/4a2d43c8da89c589b927b54a41543af6.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
@@ -280,8 +280,8 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 台灣,#genre#
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d58?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-中视菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中视经典 ★,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采台 ★,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 华视,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d46?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#rtmp://59.124.75.153/sat/tv111
 華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
@@ -295,9 +295,9 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 公视2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS2.m3u8
 公视3,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d50?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8#rtmp://59.124.75.153/sat/tv051
-民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=dy
-民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://185.207.176.189:8080/channels/tw-302/playlist.m3u8#http://xiaojun.cyou/7108live/iptv/clas3.php?key=059d3a365af752e5758ce677fba8c917&ip=114.46.80.110&id=5&p=0
-民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=tw
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
 民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -305,11 +305,11 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 寰宇综合台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#http://43.129.29.150:84/pls/tv/hyxwt/266a09bc2f8b77417059bc6efe75445d.flv
 寰宇新聞台灣台 ★,http://sl.tmtv.me/20201226/ubtl.php?cid=87
-中天綜合 HD,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+中天綜合 HD ★,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8#http://60.251.59.179:8515/xoxo.m3u8
 中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
 东森综合台,http://60.251.59.179:8518/xoxo.m3u8
-东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://60.251.59.179:8514/xoxo.m3u8#http://60.251.59.179:8534/xoxo.m3u8#http://xiaojun.cyou/7108live/iptv/clas3.php?key=059d3a365af752e5758ce677fba8c917&ip=114.46.80.110&id=33&p=0
+东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://60.251.59.179:8514/xoxo.m3u8#http://60.251.59.179:8534/xoxo.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://60.251.59.179:8517/xoxo.m3u8#rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c84?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#rtmp://59.124.75.153:1935/sat/tv571
 东森超视,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
 东森电影台,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -322,7 +322,7 @@ TVBS欢乐台,http://60.251.59.179:8520/xoxo.m3u8#rtmp://59.124.75.153/sat/tv421
 三立综合台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d28?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立新闻台,http://xiaojun.cyou/7108live/iptv/clas3.php?key=059d3a365af752e5758ce677fba8c917&ip=114.46.80.110&id=26&p=0
+三立新闻台,http://125.227.210.55:15589/VideoInput/play.ts
 三立戏剧台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d30?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
@@ -330,13 +330,17 @@ TVBS欢乐台,http://60.251.59.179:8520/xoxo.m3u8#rtmp://59.124.75.153/sat/tv421
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://xiaojun.cyou/7108live/iptv/clas3.php?key=059d3a365af752e5758ce677fba8c917&ip=114.46.80.110&id=34&p=0
 年代新闻台,http://125.227.210.37:11055/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2050/index.m3u8
 非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2058/index.m3u8
-纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
-纬来精采,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
-纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-纬来电影台,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+纬来综合台 ★,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+纬来精采 ★,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来戏剧台 ★,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来电影台,http://60.251.59.179:8543/xoxo.m3u8#rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+纬来体育台,http://125.227.210.55:18358/VideoInput/play.ts
+纬来体育台,rtmp://59.124.75.153/sat/tv721
+纬来体育台,rtmp://59.124.75.153:1935/sat/tv721
+纬来日本台,rtmp://59.124.75.153:1935/sat/tv521#rtmp://59.124.75.153/sat/tv522
+緯來育樂,rtmp://59.124.75.153/sat/tv701
+緯來育樂,rtmp://59.124.75.153/sat/tv702
+緯來育樂,rtmp://59.124.75.153:1935/sat/tv701
 卫视电影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 卫视电影台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
