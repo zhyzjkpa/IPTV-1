@@ -12,7 +12,6 @@ CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
 央视新闻·正直播,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 咪咕视频·PP体育,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8#http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
-孟晚舟,http://plmedia20.live.weibo.com:80/alicdn/4685370219823470.flv
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225831/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221226023/index.m3u8
