@@ -65,6 +65,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=4tbh25K-vO8)
         EOL
+    - name: Get ebcyoyo.m3u8
+      run: |
+        touch ./ebcyoyo.m3u8
+        sudo cat >./ebcyoyo.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/c/yoyotvebc/live)
+        EOL
     - name: Get euronews.m3u8
       run: |
         touch ./euronews.m3u8
