@@ -243,9 +243,9 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#https://cdn.hkdtmb.com/hls/96/index.m3u8#http://61.238.6.49:8000/bysid/96
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99
-有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38#https://api.leonardpark.dev/live/icable/108
-有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37#https://api.leonardpark.dev/live/icable/109
-有線直播新聞台,https://www.navchina.cf/IPTV/icable.php?id=39#https://api.leonardpark.dev/live/icable/110
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 有線綜合娛樂台 ★,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 有線高清603台,http://45.11.92.252/luck/940049/13
 有線18台,rtmp://59.124.75.157/sat/hk041#rtmp://59.124.75.157/sat/hk042#http://45.11.92.252/luck/940049/14
@@ -257,8 +257,8 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 鳳凰衛視電影台,rtmp://58.200.131.2:1935/livetv/fhdy
 now爆谷台,http://45.11.92.252/luck/940049/26
-now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8#https://www.navchina.cf/IPTV/now.php?id=331
-now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332
+now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
+now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 now財經台,https://www.navchina.cf/IPTV/now.php?id=333
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 賽馬直擊,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8HKS,https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo_720p.m3u8
