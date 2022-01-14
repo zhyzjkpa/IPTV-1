@@ -209,9 +209,9 @@ CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 
 香港,#genre#
-港台電視31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台電視32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
-港台電視33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8#https://cdn.hkdtmb.com/hls/33/index.m3u8
+港台電視31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
+港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8#https://www.navchina.cf/IPTV/icable.php?id=76
@@ -220,7 +220,7 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#https://cdn.hkdtmb.com/hls/81b/index.m3u8#http://61.238.6.49:8000/bysid/1
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://iptv.tvfix.org/hls/inews_v.m3u8#
+无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://iptv.tvfix.org/hls/inews_v.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
@@ -280,23 +280,23 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 台灣,#genre#
-中视,rtmp://59.124.75.138/sat/tv091#http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
+中视,rtmp://59.124.75.138/sat/tv091#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
 中视经典,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 中视菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
-华视,rtmp://59.124.75.157/sat/tv111#http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free
+华视,rtmp://59.124.75.157/sat/tv111#http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 華視教育文化 HD,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
 國會頻道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8
 國會頻道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8
-台视,rtmp://59.124.75.157/sat/tv071#http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free
+台视,rtmp://59.124.75.157/sat/tv071#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
 台視綜合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 台視財經,http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free
 公视,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公视2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS2.m3u8
 公视3,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
-民视,http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.157/sat/tv051
+民视,http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.157/sat/tv051#http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民视新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ftvnews.m3u8
 民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
@@ -319,7 +319,7 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 东森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
 东森戏剧台,http://125.227.210.55:17524/VideoInput/play.ts
 东森幼幼台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
-TVBS,http://60.251.59.179:8512/xoxo.m3u8#http://60.251.59.179:8510/xoxo.m3u8
+TVBS,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8#http://iptv.tvfix.org/hls/tvbsnews.m3u8#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://59.124.75.157:1935/sat/tv551
 TVBS欢乐台,rtmp://59.124.75.157/sat/tv421
 TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
@@ -327,16 +327,16 @@ TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 三立综合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
-三立新闻台,http://125.227.210.55:15589/VideoInput/play.ts
+三立新闻台,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
 三立戏剧,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://125.227.210.55:15714/VideoInput/play.ts
 三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
 壹電影,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
-年代新闻台,http://125.227.210.37:11055/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2050/index.m3u8
+年代新闻台,http://125.227.210.37:11055/VideoInput/play.ts
 年代MUCH HD,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
-非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2058/index.m3u8
-非凡商業台,http://50.7.61.147:30080/Entry/ubnbus#http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free
+非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
+非凡商業台,http://50.7.61.147:30080/Entry/ubnbus
 纬来综合台 ★,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
 纬来精采 ★,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 纬来戏剧台 ★,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
