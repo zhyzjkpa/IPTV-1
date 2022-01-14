@@ -92,6 +92,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=aHh8rA0hks8)
         EOL
+    - name: Get ftvnews.m3u8
+      run: |
+        touch ./ftvnews.m3u8
+        sudo cat >./ftvnews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=XGEmg3vhrzU)
+        EOL
     - name: Get hyxw.m3u8
       run: |
         touch ./hyxw.m3u8
@@ -136,6 +145,24 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=T8dcZHk4xWs)
+        EOL
+    - name: Get setinews.m3u8
+      run: |
+        touch ./setinews.m3u8
+        sudo cat >./setinews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=CKjSm5ZeehE)
+        EOL
+    - name: Get setlivenews.m3u8
+      run: |
+        touch ./setlivenews.m3u8
+        sudo cat >./setlivenews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=FoBfXvlOR6I)
         EOL
     - name: Get tvbsnews.m3u8
       run: |
