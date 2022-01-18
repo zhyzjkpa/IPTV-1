@@ -5,39 +5,6 @@ http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w74403
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/10/photo-275-600x600.jpg" group-title="中国央视", CCTV+ Channel 2
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播1
-https://newsalic.v.myalicdn.com:443/news/news01_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播2
-https://newsalic.v.myalicdn.com:443/news/news02_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播3
-https://newsalic.v.myalicdn.com:443/news/news03_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播4
-https://newsalic.v.myalicdn.com:443/news/news04_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播5
-https://newsalic.v.myalicdn.com:443/news/news05_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播6
-https://newsalic.v.myalicdn.com:443/news/news06_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播7
-https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播8
-https://newsalic.v.myalicdn.com:443/news/news08_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播9
-https://newsalic.v.myalicdn.com:443/news/news09_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播10
-https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/广东体育.png" group-title="中国央视", 广东体育 高清
-http://113.64.147.67:808/hls/18/index.m3u8
-
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国央视", CCTV-1 综合 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
@@ -51,43 +18,43 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/CCTV4America.jpg" group-title="中国央视", CCTV-4 中文国际美洲 高清
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?ProgramID=&encrypt=1
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/CCTV4Europe.jpg" group-title="中国央视", CCTV-4 中文国际欧洲 高清
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?ProgramID=&encrypt=1
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国央视", CCTV-5 体育 高清
-http://124.232.231.246:6610/000000001001/201500000125/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221228179/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国央视", CCTV-5+ 体育赛事 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国央视", CCTV-6 电影 高清
-http://39.134.24.88/PLTV/88888888/224/3221226027/index.m3u8
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228123/index.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国央视", CCTV-7 国防军事 高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国央视", CCTV-8 电视剧 高清
-http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国央视", CCTV-9 纪录 高清
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国央视", CCTV-10 科教 高清
-http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国央视", CCTV-11 戏曲 高清
-http://39.135.230.89/ott.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国央视", CCTV-12 社会与法 高清
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国央视", CCTV-13 新闻 高清
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
 
 #EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国央视", CCTV-14 少儿 高清
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国央视", CCTV-15 音乐 高清
 rtsp://183.252.166.199/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
@@ -96,49 +63,49 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221225998/1000010000000006000000000229
 http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国央视", CCTV-4K 超高清
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 
 #EXTINF:-1 tvg-id="6562" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国央视", CCTV 怀旧剧场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6557" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="中国央视", CCTV 风云音乐 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6563" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国央视", CCTV 兵器科技 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6558" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中国央视", CCTV 第一剧场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="中国央视", CCTV 电视指南 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6559" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国央视", CCTV 风云剧场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6000" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中国央视", CCTV 风云足球 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6568" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="中国央视", CCTV 高尔夫·网球 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6564" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="中国央视", CCTV 女性时尚 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6560" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中国央视", CCTV 世界地理 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6569" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="中国央视", CCTV 央视文化精品 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6584" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中国央视", CCTV 央视台球 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/wsjk.png" group-title="中国央视", CCTV 卫生健康 高清
-http://api.phoves.com.cn/iptv/gudou3.php?id=weishengjiankang_1500&/PLTV/hls.smil.m3u8
+http://astream.apk1088.com:18888/channel.php?id=weishengjiankang_1500
 
 #EXTINF:-1 tvg-id="6594" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="中国央视", 中央新影 老故事
-http://183.207.248.71/gitv/live1/G_LAOGUSHI/G_LAOGUSHI
+http://39.135.138.5:6610/PLTV/88888888/224/3221225517/2/index.m3u8
 
 #EXTINF:-1 tvg-id="6583" tvg-logo="http://www.nettvplus.live/uploads/20/1-200Q2211040237.jpg" group-title="中国央视", 中央新影 中学生
 http://39.135.138.5:6610/PLTV/88888888/224/3221225515/2/index.m3u8
@@ -168,10 +135,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225513/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="20" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="中国央视", CGTN
-http://hdtv.haust.edu.cn/hls/hls185a571.m3u8
+http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227090/index.m3u8
 
 #EXTINF:-1 tvg-id="891" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="中国央视", CGTN Documentary
-http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/CNC.png" group-title="中国央视", CNC 中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -228,7 +195,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="40" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国卫视", 重庆卫视 高清
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228133/index.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国卫视", 东南卫视 高清
 rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
@@ -240,13 +207,13 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226128/1000010000000006000000000243
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="中国卫视", 广西卫视 高清
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000116
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="44" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国卫视", 贵州卫视 高清
 rtsp://183.252.166.199/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
 
 #EXTINF:-1 tvg-id="45" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="中国卫视", 河北卫视 高清
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228106/index.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国卫视", 黑龙江卫视 高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -264,10 +231,10 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m
 rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
 
 #EXTINF:-1 tvg-id="56" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国卫视", 四川卫视 高清
-http://hdtv.haust.edu.cn/hls/hls67a42.m3u8
+http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226728/index.m3u8
 
 #EXTINF:-1 tvg-id="52" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="中国卫视", 内蒙古卫视 高清
-http://live.m2oplus.nmtv.cn/1/playlist.m3u8?token=
+http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 
 #EXTINF:-1 tvg-id="53" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="中国卫视", 宁夏卫视 高清
 http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
