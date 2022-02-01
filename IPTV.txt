@@ -268,8 +268,8 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 鳳凰衛視電影台,rtmp://58.200.131.2:1935/livetv/fhdy
 now爆谷台,http://45.11.92.252/luck/940049/26
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
-now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
-now財經台,https://www.navchina.cf/IPTV/now.php?id=333
+now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.jmsooo.com/tbs.php?id=16
+now財經台,https://www.navchina.cf/IPTV/now.php?id=333#https://www.jmsooo.com/tbs.php?id=17
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 賽馬直擊,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8HKS,https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo_720p.m3u8
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
