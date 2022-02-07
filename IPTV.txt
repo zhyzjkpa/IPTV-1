@@ -1,6 +1,4 @@
 中国央视,#genre#
-CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 CCTV1,http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221228245/index.m3u8#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8#http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://39.135.89.3:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 CCTV2,http://223.110.235.37/ott.js.chinamobile.com/PLTV/3/224/3221228248/index.m3u8#http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228094/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
 CCTV3,http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221228174/index.m3u8#http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228126/index.m3u8#http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227546/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
@@ -54,6 +52,8 @@ CGTN法语,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/32212271
 CGTN俄语,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227096/index.m3u8#http://iptv.tvfix.org/hls/cgtnehd.m3u8#https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN阿拉伯语,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227151/index.m3u8#http://iptv.tvfix.org/hls/cgtnahd.m3u8#https://livear.cgtn.com/1000a/prog_index.m3u8#https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 CGTN西班牙语,http://iptv.tvfix.org/hls/cgtnxhd.m3u8#https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 CNC 中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8#http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC 英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8#http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -104,7 +104,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 农林卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-北京纪实,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8#http://183.207.249.208/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8#http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8#http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
+北京纪实,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000145&playtoken=ABCDEFGH&auth=no
 上海纪实,http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227635/index.m3u8
 金鹰纪实,http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
@@ -314,7 +314,7 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 台視財經,http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free
 公视,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公视2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS2.m3u8
-公视3,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
+公视3 ★,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
 公視戲劇,http://61.222.202.191/gt/gttv.php?id=14159&cid=14319
 民视,http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.157/sat/tv051#http://61.222.202.191/gttv.php?id=13669&cid=13822#http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
@@ -336,7 +336,7 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://60.251.59.179:8514/xoxo.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://60.251.59.179:8517/xoxo.m3u8#rtmp://59.124.75.157/sat/tv571
 东森超视,rtmp://59.124.75.157/sat/tv771#rtmp://59.124.75.157/sat/tv771#http://212.95.133.2/tv/js.php?id=43
-东森电影台,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
+东森电影台 ★,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
 东森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
 东森戏剧台,http://125.227.210.55:17524/VideoInput/play.ts
 东森幼幼台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
@@ -346,16 +346,16 @@ TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m
 TVBS欢乐台,http://61.222.202.191/gt/gttv.php?id=15133&cid=15296#rtmp://59.124.75.157/sat/tv421
 TVBS精采台,http://61.222.202.191/gt/gttv.php?id=15134&cid=15297
 TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
-三立综合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+三立综合台 ★,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8#http://212.95.133.2/tv/js.php?id=146
 三立新闻台,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
-三立戏剧,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+三立戏剧 ★,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://212.95.133.2/tv/js.php?id=38#http://125.227.210.55:15714/VideoInput/play.ts
 三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 年代新闻台,http://212.95.133.2/tv/js.php?id=14#http://125.227.210.37:11055/VideoInput/play.ts
-年代MUCH HD,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+年代MUCH HD ★,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 非凡新闻台,http://212.95.133.2/tv/js.php?id=148#http://125.227.210.37:15078/VideoInput/play.ts
 非凡商業台,http://50.7.61.147:30080/Entry/ubnbus
 纬来电影台,http://60.251.59.179:8543/xoxo.m3u8
@@ -790,7 +790,7 @@ CCTV3,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&a
 生活时尚,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000141&playtoken=ABCDEFGH&auth=no
 都市剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000142&playtoken=ABCDEFGH&auth=no
 求索纪录,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000144&playtoken=ABCDEFGH&auth=no
-冬奥纪实,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000145&playtoken=ABCDEFGH&auth=no
+北京纪实,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000145&playtoken=ABCDEFGH&auth=no
 辽宁卫视,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000147&playtoken=ABCDEFGH&auth=no
 精彩影视,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000149&playtoken=ABCDEFGH&auth=no
 江西7高清,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000217&playtoken=ABCDEFGH&auth=no
