@@ -106,7 +106,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 农林卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-北京纪实8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8#http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8#http://[240e:9f:c04f:1::2]/live.gq.miguvideo.com:8080/migu/wd_r1/football/origin8/901/20200430/index.m3u8?&encrypt=
+冬奥纪实8K,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8#http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8#http://[240e:9f:c04f:1::2]/live.gq.miguvideo.com:8080/migu/wd_r1/football/origin8/901/20200430/index.m3u8?&encrypt=
 北京纪实 4K超高清,http://sm.amw1933.top/PLTV/sccn.php?id=dajs-4k_8000#http://103.53.216.22/live/scxg.php?id=dajs-4k_8000
 北京纪实 高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000145&playtoken=ABCDEFGH&auth=no
 上海纪实,http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227635/index.m3u8
