@@ -122,7 +122,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 Channel [V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 广东影视 4K,http://astream.apk1088.com:18888/channel.php?id=gdyingshi4k_30000
 广东综艺 4K,http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
-南国都市 4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
+南国都市 4K,http://ye23.win/iptv/gztv.php?id=shenghuo#http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds#https://aplay.gztv.com/sec/shenghuos.m3u8
 欢笑剧场 4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 纯享4K,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8#http://183.207.248.110/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
 爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
