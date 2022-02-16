@@ -258,7 +258,7 @@ C+,http://206.119.173.184/tv/js.php?id=21
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 鳳凰衛視電影台,rtmp://58.200.131.2:1935/livetv/fhdy
-now爆谷台 ★,http://45.11.92.252/luck/940049/26
+now爆谷台,http://v3948069e.live.126.net/live/Nowbg.flv
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8#http://206.119.173.184/tv/js.php?id=20
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 now財經台,https://www.navchina.cf/IPTV/now.php?id=333
