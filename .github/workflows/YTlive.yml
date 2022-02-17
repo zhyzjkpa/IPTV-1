@@ -164,6 +164,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=FoBfXvlOR6I)
         EOL
+    - name: Get tvbs.m3u8
+      run: |
+        touch ./tvbs.m3u8
+        sudo cat >./tvbs.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=hP6_jfCFxyQ)
+        EOL
     - name: Get tvbsnews.m3u8
       run: |
         touch ./tvbsnews.m3u8
