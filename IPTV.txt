@@ -331,7 +331,7 @@ now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8#http://206.119.173.1
 寰宇HD综合,p5p://45.92.126.18:19706/60434cfa0008763606d78025a8321e46.ts	
 寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#P2p://860969650:9906/7a095cbbff944242bd359bb0f32ac5f2
 寰宇新聞台灣台,P2p://860969650:9906/b6a355771a7e4b469684732040c522f7
-寰宇財經,p5p://45.92.126.18:19706/60434e97000581d106ddccac446ea89d
+寰宇财经,p5p://45.92.126.18:19706/60434e97000581d106ddccac446ea89d
 
 中天综合台,P2p://860969650:9906/a23f89fde21341f3b172046c02ad688c#http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8#P2p://860969650:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
@@ -360,7 +360,7 @@ TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8#P2p://860969650:9906/49035f1ad8b84fa7822c0ff660d89f09
 三立戏剧,P2p://860969650:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
 三立台湾台,P2p://860969650:9906/ba70eb94fd0e4b2aae6fb9ece2203391#http://125.227.210.55:15714/VideoInput/play.ts
-三立都會台,P2p://860969650:9906/24f879b52a0d45d886005e8acdd9a8ab
+三立都会台,P2p://860969650:9906/24f879b52a0d45d886005e8acdd9a8ab
 
 壹電視綜合台,tvbus://3p3whpbQRZ9ATUezddN9tPF81BdQn5e4t8ebAFtvBQBXNfijAj
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#,P2p://860969650:9906/c111818e11e8420aaad164543387473c
@@ -370,17 +370,17 @@ TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 年代MUCH,p5p://45.92.126.18:19706/60449ce00006c4040217af361b6c5a1a.ts	
 
 非凡新闻台,P2p://860969650:9906/3801d29839174353a940a8c0cfae6e47#http://125.227.210.37:15078/VideoInput/play.ts
-非凡商業台,P2p://860969650:9906/ab4d36f3d889496a92747157c7e4c732#http://50.7.61.147:30080/Entry/ubnbus
+非凡商业台,P2p://860969650:9906/ab4d36f3d889496a92747157c7e4c732#http://50.7.61.147:30080/Entry/ubnbus
 
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-
-愛爾達綜合臺,p5p://45.92.126.18:19706/60689fa0000c9dae134f712965a8f823.ts
+爱尔达综合,p5p://45.92.126.18:19706/60689fa0000c9dae134f712965a8f823.ts
 爱尔达体育1,P2p://860969650:9906/db6bd5a732984d83a8fdb9d0536886c8
 爱尔达体育2,P2p://860969650:9906/bc49344900a546d39b5083025db6243f
 爱尔达体育3,P2p://860969650:9906/4f3f4387a8174b8f8aaed89e2901442c
 爱尔达影剧,P2p://860969650:9906/7964972106564c79bee0dbe6dde23c81
+
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
 海外,#genre#
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
@@ -1776,6 +1776,43 @@ VIU SIX,p5p://45.92.126.18:19706/6159c5d9000848ff19fce09318840f2c
 有線18臺,p5p://45.92.126.18:19706/615cf3b20004e4390c68149d25db8dc8
 有線603高清,p5p://45.92.126.18:19706/60ed1cd4000297a20faf48d5542663e4	
 有線娛樂臺,p5p://45.92.126.18:19706/615cf4490001e8c00c6a61b288746e22
+
+hellotvvod港澳,#genre#
+Thrill,P2p://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
+鳳凰中文,P2p://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
+鳳凰資訊,P2p://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
+鳳凰香港,P2p://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
+陽光衛視,P2p://ns2.hellotvvod.com:9906/ff6e07bcb19740c4b360e3fa958a5f2c
+澳門-MACAU,P2p://ns2.hellotvvod.com:9906/ba43211992f348d6a8b07f1edb894c9b
+澳門蓮花,P2p://ns2.hellotvvod.com:9906/5a534ef41b9647c9aad8facdb5525a2a
+港台电视31,P2p://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
+港台電視32,P2p://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
+爆谷台,P2p://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
+鳳凰電影,P2p://ns2.hellotvvod.com:9906/06553799649b45619f5c5ff5467abe0e
+HKC電影,P2p://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
+HKC綜合娛樂,P2p://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
+香港開電視,P2p://ns2.hellotvvod.com:9906/ae5366f93aa942ddb49b19c9492f5d72
+翡翠台,P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
+?翡翠台(備),P2p://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f
+J2,P2p://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
+無綫新聞,P2p://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
+無綫新聞(備),P2p://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
+無綫財經資訊,P2p://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+明珠台,P2p://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
+now新聞,P2p://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+now直播,P2p://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
+HKC新聞,P2p://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
+HKC直播新聞,P2p://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
+HKC財經資訊,P2p://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+ViuTVsix,P2p://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
+ViuTV,P2p://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+TVB經典,P2p://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
+TVB娛樂新聞,P2p://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
+TVB 星河,P2p://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+HKC 18,P2p://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+HKC 603,P2p://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+HKC体育,P2p://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+HKC Sports Plus 1,P2p://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
 
 NewTV,#genre#
 NewTV中国功夫,http://39.135.140.104:6610/PLTV/88888888/224/3221225660/2/index.m3u8
