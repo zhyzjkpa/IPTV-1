@@ -222,9 +222,11 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+
 香港国际财经台,https://www.navchina.cf/IPTV/icable.php?id=76
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77#https://cdn.hkdtmb.com/hls/77/index.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
 翡翠台,http://206.119.173.184/tv/js.php?id=4
 J2,http://206.119.173.184/tv/js.php?id=9
 TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
@@ -241,27 +243,33 @@ TVB娛樂新聞台,P2p://860969650:9906/f500497b96b1458a8f9f5da38c6e02d7
 TVB 星河,P2p://860969650:9906/5f99a3cfce824f6da2fd0c3b6797428a
 無綫新聞 newsevent1,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#http://61.238.6.49:8000/bysid/96
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#http://61.238.6.49:8000/bysid/99
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108#p5p://45.92.126.18:19706/615cf3de000200420c68bfc0bce964e3
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
-有線綜合娛樂台 ★,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
+有線綜合娛樂台,p5p://45.92.126.18:19706/615cf4490001e8c00c6a61b288746e22
 有線高清603台,https://www.jmsooo.com/tbs.php?id=26
-有線18台,https://www.jmsooo.com/tbs.php?id=25#rtmp://59.124.75.157/sat/hk041#rtmp://59.124.75.157/sat/hk042
-有線電影台 HD,P2p://860969650:9906/6d83197a57a94c41848d3945e38a8607
-有線體育台,https://www.jmsooo.com/tbs.php?id=27
+有線18台,p5p://45.92.126.18:19706/615cf3b20004e4390c68149d25db8dc8#rtmp://59.124.75.157/sat/hk041#rtmp://59.124.75.157/sat/hk042
+有線電影台 HD,P2p://860969650:9906/6d83197a57a94c41848d3945e38a8607#p5p://45.92.126.18:19706/60ed1cd4000297a20faf48d5542663e4
+有線體育台 ★,https://www.jmsooo.com/tbs.php?id=27
 有線 Sports Plus 1,rtmp://59.124.75.157/sat/hk021
 C+,http://206.119.173.184/tv/js.php?id=21
+
+
 凤凰中文,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 鳳凰衛視電影台,P2p://860969650:9906/06553799649b45619f5c5ff5467abe0e
+
 now爆谷台,http://v3948069e.live.126.net/live/Nowbg.flv#P2p://860969650:9906/1d7e379fa2f04936b9d2dce207efb097
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8#http://206.119.173.184/tv/js.php?id=20
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 now財經台,https://www.navchina.cf/IPTV/now.php?id=333
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8#http://206.119.173.184/tv/js.php?id=19
+
 美亚电影台（粤语）,http://iptv.tvfix.org/hls/mydy.m3u8
 美亚电影台（国语）,http://iptv.tvfix.org/hls/mydy2.m3u8
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
@@ -291,18 +299,18 @@ now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8#http://206.119.173.1
 台灣,#genre#
 中视,rtmp://59.124.75.138/sat/tv091#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8
-中視經典 ★,http://206.119.163.4/apitv/gtlive.php?id=18949&cid=19112
-中視菁采 ★,http://206.119.163.4/apitv/gtlive.php?id=18948&cid=19111
+中視經典,p5p://45.92.126.18:19706/615ceee60007b48e0c555876520737b3
+中視菁采,p5p://45.92.126.18:19706/615cef2b000a183f0c56669a25583e1d
 
 华视,rtmp://59.124.75.157/sat/tv111#P2p://860969650:9906/fd73b217be314cf198807cc5d1d911b6#http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-華視教育文化 HD ★,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+華視教育文化 HD,p5p://45.92.126.18:19706/615cf2bd000248ec0c6456eae60c58dc
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#P2p://860969650:9906/412a06626d254822954dd29b235f9366
 國會頻道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8#P2p://860969650:9906/3b86853022324c3da4928922ba545877
 國會頻道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8#P2p://860969650:9906/7350ee5ff93341a08945bc1c8d95cd1c
 
 台视,P2p://860969650:9906/0cde14d20638479189443549d1b1005f#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8#rtmp://59.124.75.157/sat/tv071
 台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8#P2p://860969650:9906/ec46ca942a3a4c9292c0dee902f579bf
-台视综合台 ★,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+台视综合台,p5p://45.92.126.18:19706/615cf1d90008f3590c60ddff48ad15c3
 台视财经台,P2p://860969650:9906/d8d1fa07f623422aae04f0e860f4bea3
 
 公视,P2p://860969650:9906/a1c2ecbcd3b64f3eb72ac9191b337cda#http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
@@ -320,9 +328,10 @@ now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8#http://206.119.173.1
 
 原住民频道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F#P2p://860969650:9906/aa08defb0c824c2286623855624a0e07
 
-寰宇HD综合 ★,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+寰宇HD综合,p5p://45.92.126.18:19706/60434cfa0008763606d78025a8321e46.ts	
 寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#P2p://860969650:9906/7a095cbbff944242bd359bb0f32ac5f2
 寰宇新聞台灣台,P2p://860969650:9906/b6a355771a7e4b469684732040c522f7
+寰宇財經,p5p://45.92.126.18:19706/60434e97000581d106ddccac446ea89d
 
 中天综合台,P2p://860969650:9906/a23f89fde21341f3b172046c02ad688c#http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8#P2p://860969650:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
@@ -345,7 +354,7 @@ TVBS欢乐台,P2p://860969650:9906/b4b85eca20d7462fae595d8033c6a9ce#rtmp://59.12
 TVBS精采台,http://61.222.202.191/gt/gttv.php?id=15134&cid=15297
 TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 
-三立综合台,http://206.119.173.184/tv/js.php?id=146
+三立综合台,p5p://45.92.126.18:19706/60441aa3000729ad001af109e515adad.ts
 三立新闻台,P2p://860969650:9906/3fc8adf766954da4bc9908ecb81184bc#http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
 三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
 三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8#P2p://860969650:9906/49035f1ad8b84fa7822c0ff660d89f09
@@ -353,11 +362,12 @@ TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 三立台湾台,P2p://860969650:9906/ba70eb94fd0e4b2aae6fb9ece2203391#http://125.227.210.55:15714/VideoInput/play.ts
 三立都會台,P2p://860969650:9906/24f879b52a0d45d886005e8acdd9a8ab
 
+壹電視綜合台,tvbus://3p3whpbQRZ9ATUezddN9tPF81BdQn5e4t8ebAFtvBQBXNfijAj
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#,P2p://860969650:9906/c111818e11e8420aaad164543387473c
 壹電視電影台,P2p://860969650:9906/4726fe8fb7e748659fac6cf64370a205
 
 年代新闻台,P2p://860969650:9906/a412a974b1c24427ba506b9fcd95d77b#http://125.227.210.37:11055/VideoInput/play.ts
-年代MUCH HD ★,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+年代MUCH,p5p://45.92.126.18:19706/60449ce00006c4040217af361b6c5a1a.ts	
 
 非凡新闻台,P2p://860969650:9906/3801d29839174353a940a8c0cfae6e47#http://125.227.210.37:15078/VideoInput/play.ts
 非凡商業台,P2p://860969650:9906/ab4d36f3d889496a92747157c7e4c732#http://50.7.61.147:30080/Entry/ubnbus
@@ -366,6 +376,7 @@ TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
+愛爾達綜合臺,p5p://45.92.126.18:19706/60689fa0000c9dae134f712965a8f823.ts
 爱尔达体育1,P2p://860969650:9906/db6bd5a732984d83a8fdb9d0536886c8
 爱尔达体育2,P2p://860969650:9906/bc49344900a546d39b5083025db6243f
 爱尔达体育3,P2p://860969650:9906/4f3f4387a8174b8f8aaed89e2901442c
@@ -1681,16 +1692,14 @@ ELEVEN體育2台,P2p://860969650:9906/a610acb66f3749bb953d78899b7205d2
 博斯運動,P2p://860969650:9906/b57a5306d5da4dcea75af2d436968097
 博斯運動二台,P2p://860969650:9906/d4f401d6d6e144dfbb8c944a41b15772
 
-專用P5,#genre#
-鳳凰資訊臺,p5p://45.92.126.18:19706/604354a700001c2706f579cae17a48f1.ts
-鳳凰中文臺,p5p://45.92.126.18:19706/604355380000ff4606f7b06cbafec3a5.ts
-鳳凰香港,p5p://45.92.126.18:19706/604355eb000c9c6806fa6e9daf90ff12.ts	
+p5p,#genre#
 民視臺灣臺,p5p://45.92.126.18:19706/615cf04900025ed10c5ac1d0409f9eae
 民視第一臺,p5p://45.92.126.18:19706/615cf01d000b41120c5a18366221dad4
 民視 HD,p5p://45.92.126.18:19706/615cefe0000b8a2b0c592a0127a8dd5a
 臺視 HD,p5p://45.92.126.18:19706/615cf10c0001987d0c5dbb55bf9bd6ed
 臺視財經,p5p://45.92.126.18:19706/615cf1970005cb4c0c5fdb60d7e44abc
 臺視新聞,p5p://45.92.126.18:19706/615cf168000ad47e0c5f2512951989aa
+臺視綜合,p5p://45.92.126.18:19706/615cf1d90008f3590c60ddff48ad15c3
 中視 HD,p5p://45.92.126.18:19706/615cee84000470af0c53d8d0e6dede6c
 中視新聞,p5p://45.92.126.18:19706/615ceea900061b6e0c5469c546672e4d
 中視精彩,p5p://45.92.126.18:19706/615cef2b000a183f0c56669a25583e1d
@@ -1705,7 +1714,6 @@ ELEVEN體育2台,P2p://860969650:9906/a610acb66f3749bb953d78899b7205d2
 大愛電視臺,p5p://45.92.126.18:19706/6044917a0000fce101eb274c2044b550.ts
 好訊息,p5p://45.92.126.18:19706/60b575c30003189a05772bc6fbb8fc4f
 好訊息2臺,tvbus://3FQvdv1Sunc7AoGmbq1W3S43ymkyebtb5rWwxgnoVC3bn2B11X
-臺視綜合,p5p://45.92.126.18:19706/615cf1d90008f3590c60ddff48ad15c3
 客家電視,p5p://45.92.126.18:19706/615cf0b3000ee57c0c5c631584311880
 原民臺,p5p://45.92.126.18:19706/615cf0df00077fe20c5d0d102000e0a2
 ETtoday綜合 HD,p5p://45.92.126.18:19706/6043494d000e362406c925d66b8448c9.ts
@@ -1715,9 +1723,9 @@ ETtoday綜合 HD,p5p://45.92.126.18:19706/6043494d000e362406c925d66b8448c9.ts
 寰宇新聞臺,p5p://45.92.126.18:19706/60434bdc0009a41d06d32342bef082c3.ts
 寰宇新聞二臺,p5p://45.92.126.18:19706/60434c6b000d588a06d552cd4d7910ec.ts
 寰宇綜合,p5p://45.92.126.18:19706/60434cfa0008763606d78025a8321e46.ts	
+寰宇財經新聞新聞,p5p://45.92.126.18:19706/60434e97000581d106ddccac446ea89d
 年代新聞,p5p://45.92.126.18:19706/618894540002fa6c0186e66d066b3e56
 東森新聞,p5p://45.92.126.18:19706/6173ae660001b6721788b6c6ac08380c
-寰宇財經新聞新聞,p5p://45.92.126.18:19706/60434e97000581d106ddccac446ea89d
 中天新聞,p5p://45.92.126.18:19706/6174fe8b000be03302ae798f40145c4c
 民視新聞,p5p://45.92.126.18:19706/61494a92000be20d0d642b3f9739874e
 三立新聞,p5p://45.92.126.18:19706/61494b62000a82d50d67576561464ccf
@@ -1736,104 +1744,17 @@ TVBS 歡樂臺,p5p://45.92.126.18:19706/614942c70008d5e00d45b97fe1d761d3
 東森戲劇,p5p://45.92.126.18:19706/60449e3500031323021ce24de00b3ef2.ts
 東森電影臺,p5p://45.92.126.18:19706/61494e4c000044800d72b6d5c1b77f5c
 東森洋片臺,p5p://45.92.126.18:19706/60449f6d000c10680221a75af38e252f.ts
-靖天育樂,p5p://45.92.126.18:19706/60469f430002fd3e09f100f732da02a0.ts
-靖天育樂,p5p://45.92.126.18:19706/60c5a45d000a99f910c459ab1ccabbf3
-緯來日本臺,p5p://45.92.126.18:19706/6044a02c000bf3c30224916a373cdb2c.ts
-緯來戲劇,p5p://45.92.126.18:19706/6044a124000716e6022858ec2ddd7840.ts
-緯來育樂,p5p://45.92.126.18:19706/6044a24900005a2c022ccfba89cc1d77.ts	
-緯來體育HD,p5p://45.92.126.18:19706/617505470005c9df02c8c6600f64eca5
 三立臺灣臺,p5p://45.92.126.18:19706/60435a1000013bcc070a9c3b0ad870c7.ts
 三立都會臺,p5p://45.92.126.18:19706/60435aa10002e65e070cd311539826d8.ts
-衛視電影臺,p5p://45.92.126.18:19706/607318ce000ef9a107a827d158704e10.ts
-國興衛視,p5p://45.92.126.18:19706/6044d406000399b302ef1ad77f59ca13.ts	
-JET 綜合臺,p5p://45.92.126.18:19706/6149450a0008594b0d4e8f17d7ad923b
-八大第一,p5p://45.92.126.18:19706/611a7e950004e4af0be88e80bf4b6388
-八大戲劇臺,p5p://45.92.126.18:19706/6044d5ac000936f902f58cb70525846f.ts
-八大綜合,p5p://45.92.126.18:19706/6044d641000e5dc002f7d411a124e035.ts
-八大娛樂臺,p5p://45.92.126.18:19706/6044d70900008dea02faddc78bf8a126.ts
-好萊塢電影,p5p://45.92.126.18:19706/614953030008709d0d8523c592e3c647
-AXN,p5p://45.92.126.18:19706/6044d92d0004949903033b6f41d556d0.ts
-Cinemax,p5p://45.92.126.18:19706/6149544b0008eb0b0d8a2524ddcf3ee6
-龍祥電影臺,p5p://45.92.126.18:19706/6045bb31000469b906761b04cfa6bdb1.ts
-衛視中文臺,p5p://45.92.126.18:19706/6045bbb2000922ef0678142229e89274.ts
-緯來電影,p5p://45.92.126.18:19706/614959e10009f39d0d9ff75817774dbe
-緯來綜合,p5p://45.92.126.18:19706/614954e8000aa2000d8c8add3b487c6c
-TVB星河,p5p://45.92.126.18:19706/60463cd5000f308a087086672166e0af.ts
-緯來精彩,p5p://45.92.126.18:19706/6044a30800006812022fb9d6202c684d.ts
-生命電視臺,p5p://45.92.126.18:19706/60463d9a0001f1630873848a76accc36.ts
-華藏衛視,p5p://45.92.126.18:19706/60463e4f0004c7480876484c7d16a8e0.ts
-星空衛視,p5p://45.92.126.18:19706/60463ee9000522e20878a1f4688ea89f.ts
-人間衛視,p5p://45.92.126.18:19706/60463f7d000802da087ae4d0305dfcaf.ts	
-星空衛視,p5p://45.92.126.18:19706/60eda96d000783c911d47fc0406d599e
-高點綜合,p5p://45.92.126.18:19706/6149448d0007247b0d4ca68022a5f032
-東風衛視,p5p://45.92.126.18:19706/604640af000dbd7a087f919857110af4.ts
 三立綜合臺,p5p://45.92.126.18:19706/60441aa3000729ad001af109e515adad.ts
 三立戲劇臺,p5p://45.92.126.18:19706/60441b4f00036f62001d8ff40f884e87.ts
-靖天歡樂,p5p://45.92.126.18:19706/60c5a564000c898610c85d82cfc3a4e3
-靖天日本臺,p5p://45.92.126.18:19706/6045b8aa000389cf066c3b7385e82ede.ts
-靖天資訊臺,p5p://45.92.126.18:19706/6045b93800071301066e670ba6925741.ts
-靖洋戲劇臺,p5p://45.92.126.18:19706/60441bcb000e6baf001f77240fd6acd8.ts
-靖天國際臺,p5p://45.92.126.18:19706/60bd140b000e6170094be86cd1b01e57
-靖天電影臺,p5p://45.92.126.18:19706/6045b9cc00094ab70670a9bc88048a82.ts
-Kantipur HD,p5p://45.92.126.18:19706/61349379000143450a4ad11a33e7c5ab
-天映電影,p5p://45.92.126.18:19706/60441c660009af940021d366383a86ea.ts	
-星衛電影 HD,p5p://45.92.126.18:19706/6044d33b0006a70302ec02a7d10a2600.ts
-美亞電影臺,p5p://45.92.126.18:19706/60494bf1000472fc14638907b18fe55b.ts
-光影歐洲,p5p://45.92.126.18:19706/604420030008e014002ff07922c6f89b.ts
-華藝影劇,p5p://45.92.126.18:19706/61728417000b164612fb74944d3a5d26
-華藝MBC綜合,p5p://45.92.126.18:19706/604421d400072b6600370871d6641107.ts
-星衛娛樂臺,p5p://45.92.126.18:19706/6044229300000d0a0039f0b6a59d1511.ts
 TVBS精彩,p5p://45.92.126.18:19706/610ccbbc000ada220a2a333a700ad566
-私人影院,p5p://45.92.126.18:19706/612b76530005bddc0079e572c66e5249
-龍華影劇,p5p://45.92.126.18:19706/604347a3000cc1fe06c2a567b371c0d6.ts
-龍華電影,p5p://45.92.126.18:19706/604426fa000c13eb004b26236e73affa.ts	
-龍華洋片,p5p://45.92.126.18:19706/6044287d000e2bb500510e64fec426ab.ts	
-龍華戲劇,p5p://45.92.126.18:19706/60442a110002751300573584bb335a71.ts	
-龍華偶像,p5p://45.92.126.18:19706/60442ac30006b54f0059edebe8733672.ts
-EYETV戲劇,p5p://45.92.126.18:19706/60442b6d000654ae005c85e289945252.ts
 愛爾達影劇臺,p5p://45.92.126.18:19706/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合臺,p5p://45.92.126.18:19706/60689fa0000c9dae134f712965a8f823.ts
 愛爾達體育1臺,p5p://45.92.126.18:19706/617b742500015a6801fc459b61930f93
 愛爾達體育2臺,p5p://45.92.126.18:19706/617b767a000873b0020563740ce34ccd
 愛爾達體育3臺,p5p://45.92.126.18:19706/617b775e00020aaa0208dc70b179c11d
-霹靂臺灣臺,p5p://45.92.126.18:19706/61494391000129760d48cc98263e39d1
-Travel 旅遊頻道,p5p://45.92.126.18:19706/604944bf0002e33c14476d50e1deb4e1.ts
-NBA,p5p://45.92.126.18:19706/61728417000b164612fb74944d3a5d26
-龍華動畫,p5p://45.92.126.18:19706/6044594300037550010f9116e9856cd9.ts
-博斯魅力,p5p://45.92.126.18:19706/60445a120003530d0112b9a5dc60ca35.ts	
-Eleven運動臺1,p5p://45.92.126.18:19706/60446a54000b4ef801523d80af6dda12.ts
-Z 頻道,p5p://45.92.126.18:19706/60446c7f000b970f015ab58bf1266ed0.ts
-Fight Sports,tvbus://3eWmpA35Hr5HXgWdjfzPMLgrWUinNVuZgztJtoSy28vc1x7qJM
-Eleven運動臺2,p5p://45.92.126.18:19706/61495671000ab36e0d928a09ffb0ac85
 NHK World HD,p5p://45.92.126.18:19706/6044741d0000e8b9017873ff81c638cb.ts
-美國高爾夫球,p5p://45.92.126.18:19706/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p5p://45.92.126.18:19706/604476f500023ffc01839017c2f8b12b.ts
-博斯高球二臺,p5p://45.92.126.18:19706/604477b3000746210186779063f54d2a.ts
-靖天綜合,p5p://45.92.126.18:19706/614c7520000829c819c264fbe6b1d5dc
-博斯網球,p5p://45.92.126.18:19706/6044783c0007f05c01888ee3506bef35.ts
-博斯運動1臺,p5p://45.92.126.18:19706/604478f0000e964f018b4fb7c6ee22b4.ts
-博斯運動 II,p5p://45.92.126.18:19706/6044799300093dbb018dcb11ecf6cc03.ts
-靖天卡通臺,p5p://45.92.126.18:19706/60bd172500015f0f095802a7f2bd13c9
-靖洋卡通臺,p5p://45.92.126.18:19706/60bd169300057f1b0955c9653d8db6ac
-BOOMERANG,p5p://45.92.126.18:19706/60447a4a00022e630190941a11afdf8e.ts
-靖天映畫,p5p://45.92.126.18:19706/6045ba850003d28406737afe6daf6f4d.ts
-愛放動漫,p5p://45.92.126.18:19706/60447b1e000e9a430193d36877b2a95b.ts
-曼迪日本臺,p5p://45.92.126.18:19706/6068a12900029e3a13556dc2ad58c3d5.ts
-Dreamworks,p5p://45.92.126.18:19706/60447d38000deb8b019c08cb6ec7c4d9.ts
-Animax HD,p5p://45.92.126.18:19706/611a8d5a000710970c22409682924b74
-MoMo親子臺,p5p://45.92.126.18:19706/604480210005726601a764c84f1d9e1c.ts
-CN卡通,p5p://45.92.126.18:19706/604480aa000baba001a97d8882607e75.ts
 東森幼幼,p5p://45.92.126.18:19706/6044812c00070c6401ab7829e94ee52d.ts	
-迪士尼卡通,p5p://45.92.126.18:19706/604481b9000baf3801ada02160f76b5d.ts
-日本旅遊頻道,p5p://45.92.126.18:19706/61304d2b000a9536136122700ecd28a5
-EYE TV旅遊臺,p5p://45.92.126.18:19706/60494553000b340f1449b191f22032d6.ts
-TLC旅遊臺,p5p://45.92.126.18:19706/60440517000a918709a6b1f73be1eeb9.ts
-亞洲旅遊,p5p://45.92.126.18:19706/604405c80008412109a964c89ca82891.ts
-afc亞洲美食 HD,p5p://45.92.126.18:19706/6044065f0003bace09abb177a024828d.ts
-FOOD美食,p5p://45.92.126.18:19706/604407250006a38d09aeb7a6e70be747.ts
-幸福居家,p5p://45.92.126.18:19706/60bd15bb0008599f09527e60628a99c4
-時尚瘋高清頻道,p5p://45.92.126.18:19706/61318fef00087c22184def86f768df3e
-美食星球,p5p://45.92.126.18:19706/604945ed00053a5b144c099a65029d36.ts
 TV5 Monde,p5p://45.92.126.18:19706/6046414f0008aa040882014b96694a71.ts
 CNN Internationa,p5p://45.92.126.18:19706/614941fe0007b8690d42a80e92bf1540
 BBC WORLD NEWS,p5p://45.92.126.18:19706/60464299000eba8708870be862b68160.ts
@@ -1842,29 +1763,6 @@ DW-TV ASIEN,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
 CNBC Asia,p5p://45.92.126.18:19706/604643c100068849088b8e0fef813f1c.ts
 France 24,p5p://45.92.126.18:19706/616564d400040306136fde623656c5e4
 半島電視,tvbus://4KnFZbsL7QU1wC8h6eLnZa7vSyKHg6yu3PLSHMR1tFg33NVXAX
-HBO-HD,p5p://45.92.126.18:19706/604340b2000af04c06a787875d674b81
-HBO原創,p5p://45.92.126.18:19706/604339520007991f068ab7ad0427275f
-HBO Hits HD,p5p://45.92.126.18:19706/60442428000dc9020040224339113352
-HBO 家庭,p5p://45.92.126.18:19706/610b3ea6000bd4a6041b158a2a02ace5
-探索頻道,p5p://45.92.126.18:19706/610b440f00018f2d04303511f19e7e5a
-探索亞洲頻道,p5p://45.92.126.18:19706/60433ee00002fb7906a0692e6558cb55
-探索科學,p5p://45.92.126.18:19706/6043456f00065dec06ba08a499663c96
-探索動力 DMAX,p5p://45.92.126.18:19706/6043467c000301e806be22909a147731
-探索家庭 EVE,p5p://45.92.126.18:19706/60689d110008d7a31345719a76b95329
-Outdoor,p5p://45.92.126.18:19706/60434713000a12a206c07237b306369a
-ＢＳ釣りビジョン,p5p://45.92.126.18:19706/6163d87c000494010d63a6c83657671f
-國家地理,p5p://45.92.126.18:19706/6043485f000c065106c583978afda437
-國家地理人文,p5p://45.92.126.18:19706/6043ffe3000c6f3709925f52585be323.ts
-國家野生,p5p://45.92.126.18:19706/604401050005fe790996ca7b4ed24991.ts
-動物星球,p5p://45.92.126.18:19706/60440362000e75bc09a007eeaa0519c7.ts
-狼谷競技,p5p://45.92.126.18:19706/615cf384000c96f10c6762e6a78d90d1
-視納華仁紀實臺,tvbus://3BWP6X6HKY3jp6JHbqRBRSAxtoFRsF4iWQ3KeoCAc2cjmZgVLL
-影迷數位電影臺,p5p://45.92.126.18:19706/6068a2650003dd4d135a407336ec164f.ts
-影迷數位紀實臺,p5p://45.92.126.18:19706/60494398000c2ccb1442ef592de01971.ts
-歷史頻道,p5p://45.92.126.18:19706/6049468f0008dae6144e835756f6d068.ts
-歷史頻道H2,p5p://45.92.126.18:19706/6049473c0005320614512630bb45841f.ts	
-BBC Lifestyle,p5p://45.92.126.18:19706/614955d2000d41ca0d901d9987bbb53c
-BBC Earth,p5p://45.92.126.18:19706/6044049e000eb7a609a4da5fcd30cc43.ts
 澳門蓮花臺,p5p://45.92.126.18:19706/613192f10005f0f11859aeaf78bfd050
 VIU,p5p://45.92.126.18:19706/615ae21f000542fd04536e7d15caf57f
 有線新聞,p5p://45.92.126.18:19706/60ed1721000502290f99063cfc1e9344
@@ -1914,30 +1812,6 @@ NewTV-吉林,http://39.135.140.104:6610/PLTV/88888888/224/3221226189/2/index.m3u
 NewTV-黑龙江,http://39.135.140.104:6610/PLTV/88888888/224/3221226192/2/index.m3u8
 NewTV-广西,http://39.135.140.104:6610/PLTV/88888888/224/3221226186/2/index.m3u8
 NewTV-云南,http://39.135.140.104:6610/PLTV/88888888/224/3221226188/2/index.m3u8
-
-CIBN,#genre#
-CIBN映画,http://iptv.inewya.com/qq494937337/others/cibn.php?id=7#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=TiYu
-CIBN骄阳剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=3#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=MeiZhuang
-CIBN经典剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DOTA2
-CIBN古装剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=8#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
-CIBN流金岁月,http://iptv.inewya.com/qq494937337/others/cibn.php?id=17#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=Shoucang
-CIBN综合,http://iptv.inewya.com/qq494937337/others/cibn.php?id=22#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DianJing
-CIBN动漫剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=14#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QinZi
-CIBN炫佳动漫,http://iptv.inewya.com/qq494937337/others/cibn.php?id=0#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
-CIBN朵丫乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=6#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QiChe
-CIBN纪录片,http://iptv.inewya.com/qq494937337/others/cibn.php?id=9#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JianKang
-CIBN真人秀,http://iptv.inewya.com/qq494937337/others/cibn.php?id=1#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=LuShi
-CIBN怡家,http://iptv.inewya.com/qq494937337/others/cibn.php?id=2#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiaoYu
-CIBN新知,http://iptv.inewya.com/qq494937337/others/cibn.php?id=15#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ZongHe
-CIBN微电影,http://iptv.inewya.com/qq494937337/others/cibn.php?id=19#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YingXiong
-CIBN风尚运动,http://iptv.inewya.com/qq494937337/others/cibn.php?id=12#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DanJi
-CIBN全电竞,http://iptv.inewya.com/qq494937337/others/cibn.php?id=11#http://nas.330421.cn:8000/iptv/cibn/?id=1104&code=115
-CIBN东方教育,http://iptv.inewya.com/qq494937337/others/cibn.php?id=10
-CIBN生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=23#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo
-CIBN时尚生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=4#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongLinFaYin
-CIBN品质生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=13#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=1
-CIBN好物,http://iptv.inewya.com/qq494937337/others/cibn.php?id=18#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=178
-CIBN家居用品,http://iptv.inewya.com/qq494937337/others/cibn.php?id=16#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=jiayougouwu
 
 直播中国,#genre#
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
