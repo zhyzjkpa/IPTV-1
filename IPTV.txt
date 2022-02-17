@@ -224,39 +224,35 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
 香港国际财经台,https://www.navchina.cf/IPTV/icable.php?id=76
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77#https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
-翡翠台,http://206.119.173.184/tv/js.php?id=4
-J2,http://206.119.173.184/tv/js.php?id=9
-TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8#http://206.119.173.184/tv/js.php?id=7
-无线新闻,http://206.119.173.184/tv/js.php?id=12#http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-明珠台,http://206.119.173.184/tv/js.php?id=6#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade.m3u8#P2p://860969650:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://860969650:9906/279032f76ae6465d9f6aff532770787f#p5p://45.92.126.18:19706/615ae0360009eda6044bf987e8d620d7
+J2,http://iptv.tvfix.org/hls/j2.m3u8#P2p://860969650:9906/4b20b6d78e904b779ff16c0b10d6c3e4#p5p://45.92.126.18:19706/615ae0af000c0802044dd2b9392f9b13
+TVB星河,http://iptv.tvfix.org/hls/tvbxh.m3u8#http://iptv.tvfix.org/hls/tvbxh2.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8#P2p://860969650:9906/7a62960513a04dc18339caabbf644cd9#p5p://45.92.126.18:19706/615ae1300007f909044fc997428426ad
+无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8#P2p://860969650:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
-TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB为食台(第2声道),http://iptv.tvfix.org/hls/tvbws2.m3u8
-TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫台(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8#http://iptv.tvfix.org/hls/tvbws2.m3u8
+TVB功夫台,http://iptv.tvfix.org/hls/tvbkf.m3u8#http://iptv.tvfix.org/hls/tvbkf2.m3u8
 TVB娛樂新聞台,P2p://860969650:9906/f500497b96b1458a8f9f5da38c6e02d7
 TVB 星河,P2p://860969650:9906/5f99a3cfce824f6da2fd0c3b6797428a
 無綫新聞 newsevent1,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 
-ViuTVsix,https://viutv6.hkdtmb.com/96/index.m3u8#P2p://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
-ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8#P2p://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+ViuTVsix,http://iptv.tvfix.org/hls/viutv6.m3u8#P2p://860969650:9906/0a2171b6dcd6420c98ccfb7c7f524504#p5p://45.92.126.18:19706/6159c5d9000848ff19fce09318840f2c
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8#P2p://860969650:9906/d7506148214e4b3fae543068f1701ff7#p5p://45.92.126.18:19706/615ae21f000542fd04536e7d15caf57f
 
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108#P2p://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
-有线新闻台,https://api.leonardpark.dev/live/icable/109#P2p://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
-有線直播新聞台,https://api.leonardpark.dev/live/icable/110#P2p://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
-有線綜合娛樂台,p5p://45.92.126.18:19706/615cf4490001e8c00c6a61b288746e22#P2p://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
-有線高清603台,P2p://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
-有線18台,P2p://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54#p5p://45.92.126.18:19706/615cf3b20004e4390c68149d25db8dc8#rtmp://59.124.75.157/sat/hk041#rtmp://59.124.75.157/sat/hk042
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108#P2p://860969650:9906/94ecdbe381c54b58bcca74b7b88047a2
+有线新闻台,https://api.leonardpark.dev/live/icable/109#P2p://860969650:9906/a8429ecad2e446e18c362b031e3d32bf
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110#P2p://860969650:9906/eede001be16e4991843619bb8af3f840
+有線綜合娛樂台,P2p://860969650:9906/a17643cfcae6400d8770e4b89958b706#p5p://45.92.126.18:19706/615cf4490001e8c00c6a61b288746e22
+有線高清603台,P2p://860969650:9906/bc32fd90af7d4f4aaa3bd451d9199153
+有線18台,P2p://860969650:9906/36976aef6f4f4ab2aad06b8ece5aac54#p5p://45.92.126.18:19706/615cf3b20004e4390c68149d25db8dc8#rtmp://59.124.75.157/sat/hk041#rtmp://59.124.75.157/sat/hk042
 有線電影台 HD,P2p://860969650:9906/6d83197a57a94c41848d3945e38a8607#p5p://45.92.126.18:19706/60ed1cd4000297a20faf48d5542663e4
-有線體育台,P2p://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
-有線 Sports Plus 1,P2p://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d#rtmp://59.124.75.157/sat/hk021
-C+,http://206.119.173.184/tv/js.php?id=21
+有線體育台,P2p://860969650:9906/1f7426398b0248708172875db037edff
+有線 Sports Plus 1,P2p://860969650:9906/947fa69d3ee7421f83b9aae7df4c846d#rtmp://59.124.75.157/sat/hk021
 
 凤凰中文,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -264,13 +260,12 @@ C+,http://206.119.173.184/tv/js.php?id=21
 鳳凰衛視電影台,P2p://860969650:9906/06553799649b45619f5c5ff5467abe0e
 
 now爆谷台,http://v3948069e.live.126.net/live/Nowbg.flv#P2p://860969650:9906/1d7e379fa2f04936b9d2dce207efb097
-now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8#P2p://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
-now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#P2p://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8#P2p://860969650:9906/185dbf64ed284733a132ae9ec355f263
+now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8#P2p://860969650:9906/f228f98bc84245ce9b4870364b82b6da
 now財經台,https://www.navchina.cf/IPTV/now.php?id=333
-now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8#http://206.119.173.184/tv/js.php?id=19
+now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 
-美亚电影台（粤语）,http://iptv.tvfix.org/hls/mydy.m3u8
-美亚电影台（国语）,http://iptv.tvfix.org/hls/mydy2.m3u8
+美亚电影台,http://iptv.tvfix.org/hls/mydy.m3u8#http://iptv.tvfix.org/hls/mydy2.m3u8
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 阳光卫视,https://stream.isuntv.com/680k/mid_video_index.m3u8
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
