@@ -291,7 +291,7 @@ now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 
 台灣,#genre#
 中视,rtmp://59.124.75.138/sat/tv091#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#p5p://45.92.126.18:19706/615ceea900061b6e0c5469c546672e4d
 中視經典,p5p://45.92.126.18:19706/615ceee60007b48e0c555876520737b3
 中視菁采,p5p://45.92.126.18:19706/615cef2b000a183f0c56669a25583e1d
 
@@ -322,8 +322,8 @@ now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 原住民频道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F#P2p://860969650:9906/aa08defb0c824c2286623855624a0e07
 
 寰宇HD综合,p5p://45.92.126.18:19706/60434cfa0008763606d78025a8321e46.ts	
-寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#P2p://860969650:9906/7a095cbbff944242bd359bb0f32ac5f2
-寰宇新聞台灣台,P2p://860969650:9906/b6a355771a7e4b469684732040c522f7
+寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#P2p://860969650:9906/7a095cbbff944242bd359bb0f32ac5f2#p5p://45.92.126.18:19706/60434bdc0009a41d06d32342bef082c3.ts
+寰宇新聞台灣台,P2p://860969650:9906/b6a355771a7e4b469684732040c522f7#p5p://45.92.126.18:19706/60434c6b000d588a06d552cd4d7910ec.ts
 寰宇财经,p5p://45.92.126.18:19706/60434e97000581d106ddccac446ea89d
 
 中天综合台,P2p://860969650:9906/a23f89fde21341f3b172046c02ad688c#http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
@@ -370,6 +370,12 @@ TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 爱尔达体育2,P2p://860969650:9906/bc49344900a546d39b5083025db6243f
 爱尔达体育3,P2p://860969650:9906/4f3f4387a8174b8f8aaed89e2901442c
 爱尔达影剧,P2p://860969650:9906/7964972106564c79bee0dbe6dde23c81
+
+緯來戲劇台,P2p://860969650:9906/c4d3341645874d9fab6329a7f83f5121
+緯來電影台,P2p://860969650:9906/67d49ff2fc594674a3969022f0c55ded
+緯來育樂台,P2p://860969650:9906/ed2847f9731a48e19afc2ba479a73939
+緯來體育台,P2p://860969650:9906/cd64bcebb70d4b489bf734c5b3369002
+緯來日本,P2p://860969650:9906/f89c51e091594bb1bcce0ba7b3e17973
 
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
