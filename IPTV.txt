@@ -216,8 +216,8 @@ CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 
 香港,#genre#
-港台電視31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-p.m3u8?sd=10&rebase=on#http://iptv.tvfix.org/hls/rthk31.m3u8
-港台電視32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_5400_av-p.m3u8?sd=10&rebase=on#http://iptv.tvfix.org/hls/rthk32.m3u8
+港台電視31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-p.m3u8?sd=10&rebase=on#http://iptv.tvfix.org/hls/rthk31.m3u8#P2p://860969650:9906/26306a6246814adbaec622fd114432ec
+港台電視32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_5400_av-p.m3u8?sd=10&rebase=on#http://iptv.tvfix.org/hls/rthk32.m3u8#P2p://860969650:9906/dcd3e6336bec46168a990c3331cb8579
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
