@@ -1,4 +1,4 @@
-### 如源失效请提Issues
+### 如有源失效或建议请提Issues，帮助本项目更好地运作
 
 # m3u格式直播源
 推荐Android设备使用 GSE Smart IPTV 或 Televizo 进行观看
