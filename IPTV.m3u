@@ -131,7 +131,6 @@ http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227090/index.m3
 #EXTINF:-1 tvg-id="891" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="中国央视", CGTN Documentary
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
 
-
 #EXTINF:-1 tvg-id="20" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="中国央视", CGTN法语
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227148/index.m3u8
 
