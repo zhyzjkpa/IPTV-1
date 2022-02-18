@@ -86,7 +86,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 江西卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m3u8
 吉林卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil#http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221227163/index.m3u8
 四川卫视,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226728/index.m3u8
-内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+内蒙古卫视,http://[2409:8087:1020:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/index.m3u8?fmt=ts2hls#http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 宁夏卫视,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 山西卫视,http://39.134.155.177/PLTV/88888888/224/3221225633/index.m3u8#https://www.navchina.cf/IPTV/shanxiyun.php?id=sxws
 陕西卫视,http://39.134.155.217/PLTV/88888888/224/3221225608/index.m3u8
@@ -128,8 +128,7 @@ Channel [V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 BesTV 4K,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/1/index.m3u8?fmt=ts2hls
 DOX 4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
-咪咕4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
-咪咕4K,http://39.135.46.246:6610/PLTV/77777777/224/3221225863/index.m3u8?
+咪咕4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?#http://39.135.46.246:6610/PLTV/77777777/224/3221225863/index.m3u8?
 4K电影,http://sm.amw1933.top/PLTV/sccn.php?id=emdy4k_8000
 
 江西,#genre#
@@ -223,7 +222,7 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
-香港国际财经台,https://www.navchina.cf/IPTV/icable.php?id=76
+香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8#https://www.navchina.cf/IPTV/icable.php?id=76
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
@@ -254,9 +253,9 @@ ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8#P2p://860969650:9906/d7506148214e4b3f
 有線體育台,P2p://860969650:9906/1f7426398b0248708172875db037edff
 有線 Sports Plus 1,P2p://860969650:9906/947fa69d3ee7421f83b9aae7df4c846d#rtmp://59.124.75.157/sat/hk021
 
-凤凰中文,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港,http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰中文,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 鳳凰衛視電影台,P2p://860969650:9906/06553799649b45619f5c5ff5467abe0e
 
 now爆谷台,http://v3948069e.live.126.net/live/Nowbg.flv#P2p://860969650:9906/1d7e379fa2f04936b9d2dce207efb097
@@ -462,6 +461,11 @@ USA Today,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/play
 WION,https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/16a5e2b6-ce18-4a30-9b4a-929b08815272/4.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 YTN Korean,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+Fireplace 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 江西PLTV移动CDN版,#genre#
 纯享4K 20M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
