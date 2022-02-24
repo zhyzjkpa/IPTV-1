@@ -449,7 +449,7 @@ NTD West,https://live02.ntdtv.com/NTD-West/tracks-v5a1/mono.m3u8
 NTD UK,https://live01.ntdtv.com/NTD-UK/tracks-v5a1/mono.m3u8
 Olympic Channel,https://www.navchina.cf/IPTV/Olympics.php
 Press TV,https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w359289202_b944100_slen.m3u8
-RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8#https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+RT,https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 RT America,http://rt-usa.secure.footprint.net/1105.m3u8
 RT Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 RT Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
