@@ -402,7 +402,7 @@ VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
 Global,#genre#
-ABC News (Australia),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcau.m3u8
+ABC News (Australia),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcau.m3u8#https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcus.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8#https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News LIVE,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
@@ -410,7 +410,7 @@ Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://125.227
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 Arirang TV World,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
 BBC News,http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8#http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8#http://125.227.210.37:10246/VideoInput/play.ts#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8#http://gcs2.xyz:2052/anh/123/1109862
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8#http://125.227.210.37:10246/VideoInput/play.ts#http://gcs2.xyz:2052/anh/123/1109862
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
@@ -422,7 +422,7 @@ Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-Deutsche Welle (English),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/DW.m3u8#https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+Deutsche Welle (English),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/DW.m3u8#https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DPRK Central Television,https://tv.nknews.org/tvdash/stream.mpd
 Euronews English,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/euronews.m3u8
 FOX Business,https://gma2.blab.email/espnu.m3u8
@@ -454,7 +454,7 @@ RT,https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 RT America,http://rt-usa.secure.footprint.net/1105.m3u8
 RT Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 RT Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
-Россия 24,http://uiptv.do.am/1ufc/000000006/playlist.m3u8#http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+Россия 24,http://iptv.tvfix.org/hls/russia24.m3u8#http://uiptv.do.am/1ufc/000000006/playlist.m3u8#http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01#http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8 
 SBS International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 SBS Plus International,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
