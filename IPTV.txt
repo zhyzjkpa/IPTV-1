@@ -408,27 +408,34 @@ Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m
 Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://125.227.210.37:8938/VideoInput/play.ts
 Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang TV World,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
-BBC News,http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8#http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+BBC News,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8#http://125.227.210.37:10246/VideoInput/play.ts#http://gcs2.xyz:2052/anh/123/1109862
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+Bloomberg Quicktake,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV,https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+Bloomberg TV US,https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV US Live Event,https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+Bloomberg TV US Politics Live Event,https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 CBC News,https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
-CBS News,https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f09f07ed-6175-4519-93fa-57505ba03557:TPE2/variant/ea524505d39e73f6a2da30bf0adce261/bandwidth/3394688.m3u8#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+CBS News,https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8#https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8#https://16live00.akamaized.net/CNN/index.m3u8
 Deutsche Welle (English),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/DW.m3u8#https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8#https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 DPRK Central Television,https://tv.nknews.org/tvdash/stream.mpd
 Euronews English,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/euronews.m3u8
-FOX Business,https://gma2.blab.email/espnu.m3u8
-#Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+Fox News Channel,http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 France 24,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/france24.m3u8#http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+IRIB Press TV,https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w393765776_b944100_slen.m3u8
+InfoWars,http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+Iran International,https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8#https://live.playstop.me/1816184091/index.m3u8
 JTBC,http://211.245.55.198:1024/m2u/239.192.58.7:49220
 KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 KBS 2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
@@ -439,7 +446,7 @@ NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/ma
 NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8#https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
+Newsmax,https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 NHK WORLD JAPAN HD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8#https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NTD East,https://live02.ntdtv.com/NTDA/tracks-v5a1/mono.m3u8
@@ -451,7 +458,7 @@ RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT America,http://rt-usa.secure.footprint.net/1105.m3u8
 RT Documentary HD [ENG],https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 RT Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
-Россия 24,http://iptv.tvfix.org/hls/russia24.m3u8#http://uiptv.do.am/1ufc/000000006/playlist.m3u8#http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+Россия 24,http://iptv.tvfix.org/hls/russia24.m3u8#https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8#http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01#http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8 
 SBS International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 SBS Plus International,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
@@ -460,7 +467,7 @@ Telesur,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 The Wall Street Journal Live,https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8#https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 TRT World,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/TRTWORLD.m3u8#https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 tvN,http://211.245.55.198:1024/m2u/239.192.53.7:49220
-United Nations TV,http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
+UN Web TV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 USA Today,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
 WION,https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/16a5e2b6-ce18-4a30-9b4a-929b08815272/4.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
