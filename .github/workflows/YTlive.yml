@@ -191,6 +191,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=2mCSYvcfhtc)
         EOL
+    - name: Get Україна24.m3u8
+      run: |
+        touch ./Україна24.m3u8
+        sudo cat >./Україна24.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=IgSn1Z2rq6E)
+        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
