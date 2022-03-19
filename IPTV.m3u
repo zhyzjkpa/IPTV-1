@@ -525,10 +525,10 @@ http://sk.cri.cn/am846.m3u8
 http://sk.cri.cn/am1008.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="香港", 港台電視31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="香港", 港台電視32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_5400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/RTHK33.png" group-title="香港", 港台電視33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
@@ -935,38 +935,56 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Ari.KR" tvg-logo="noimage.png" group-title="Global", Arirang 
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
 
-#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="Global", #BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="Global", BBC News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="Global", BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Global", Bloomberg
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Global", Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="Global",Bloomberg Quicktake
+https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bloomberg-television-us.png" group-title="Global",Bloomberg TV
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVUS.us"tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Global",Bloomberg TV US
+https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Global", Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us"tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Global",Bloomberg TV US Live Event
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Global",Bloomberg TV US Politics Live Event
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Global",Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="Global", CBC News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/CBSN.png" group-title="Global", CBS News
-https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f09f07ed-6175-4519-93fa-57505ba03557:TPE2/variant/ea524505d39e73f6a2da30bf0adce261/bandwidth/3394688.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="6139" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="Global", Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" group-title="Global", CNBC
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+https://16live00.akamaized.net/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="Global", #CNBC World
-http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" group-title="Global", CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Global", CNN
+https://16live00.akamaized.net/CNN/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Global", CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -980,11 +998,11 @@ https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="Global", Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 
-#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="Global", FOX Business
+#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="Global", #FOX Business
 https://gma2.blab.email/espnu.m3u8
 
-#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="Global", Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="Global", Fox News Channel
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", FOX SPORTS
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
@@ -999,7 +1017,16 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/ir/PressTV.ir.png" group-title="Global", IRIB Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2050325877_b644100_slen.m3u8
+https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w393765776_b944100_slen.m3u8
+
+#EXTINF:-1 tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="News",InfoWars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+
+#EXTINF:-1 tvg-id="IranInternational.ir" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="News",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="News",Iran International
+https://live.playstop.me/1816184091/index.m3u8
 
 #EXTINF:-1 tvg-id="JB1.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="Global", JTBC
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
@@ -1028,6 +1055,9 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="N27.IN" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="Global", NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="Global",Newsmax
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", NHK WORLD JAPAN HD
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 
@@ -1038,7 +1068,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://www.navchina.cf/IPTV/Olympics.php
 
 #EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="Global", RT
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="Global", Russia Today Documentary HD [ENG]
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
@@ -1046,8 +1076,17 @@ http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="Global", Russia Today Documentary HD [RUS]
 https://uiptv.do.am/1ufc/300663722/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Rossiya1Plus6.ru" tvg-logo="https://i.imgur.com/BNd83AQ.png" group-title="Global",Россия 1 +6
+https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8
+
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Global", Россия 24
-http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Global", Россия 24
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Global", Россия 24
+https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
 
 #EXTINF:-1 tvg-id="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="Global", SBS
 https://www.navchina.cf/IPTV/sbs.php?id=S01
@@ -1097,8 +1136,11 @@ https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/TRTWORLD.m3u8
 #EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="Global", tvN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Global", United Nations TV
-http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="Global",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/usa-today-logo-768x768.png" group-title="Global",USA Today
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="Global", YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
