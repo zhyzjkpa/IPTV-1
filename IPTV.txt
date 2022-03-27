@@ -232,7 +232,12 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8#http://iptv.tvfix.org/hls/jade2.m3u8#P2p://860969650:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://860969650:9906/279032f76ae6465d9f6aff532770787f#p5p://45.92.126.18:19706/615ae0360009eda6044bf987e8d620d7
 J2,http://iptv.tvfix.org/hls/j2.m3u8#http://iptv.tvfix.org/hls/j22.m3u8#P2p://860969650:9906/4b20b6d78e904b779ff16c0b10d6c3e4#p5p://45.92.126.18:19706/615ae0af000c0802044dd2b9392f9b13
 TVB星河,http://iptv.tvfix.org/hls/tvbxh.m3u8#http://iptv.tvfix.org/hls/tvbxh2.m3u8
-无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,https://cdn.hkdtmb.com/raw/83.ts
+无线新闻1,http://ye23.win/iptv/tvb.php?id=1
+无线新闻2,http://ye23.win/iptv/tvb.php?id=5
+无线新闻3,http://ye23.win/iptv/tvb.php?id=4
+無綫新聞 NEVT1,http://ye23.win/iptv/tvb.php?id=3
+無綫新聞 NEVT2,http://ye23.win/iptv/tvb.php?id=6
 明珠台,http://iptv.tvfix.org/hls/pearl.m3u8#P2p://860969650:9906/7a62960513a04dc18339caabbf644cd9#p5p://45.92.126.18:19706/615ae1300007f909044fc997428426ad
 无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8#P2p://860969650:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
@@ -240,8 +245,6 @@ TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8#http://iptv.tvfix.org/hls/tvbw
 TVB功夫台,http://iptv.tvfix.org/hls/tvbkf.m3u8#http://iptv.tvfix.org/hls/tvbkf2.m3u8
 TVB娛樂新聞台,P2p://860969650:9906/f500497b96b1458a8f9f5da38c6e02d7
 TVB 星河,P2p://860969650:9906/5f99a3cfce824f6da2fd0c3b6797428a
-無綫新聞 newsevent1,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 
 ViuTVsix,http://iptv.tvfix.org/hls/viutv6.m3u8#P2p://860969650:9906/0a2171b6dcd6420c98ccfb7c7f524504#p5p://45.92.126.18:19706/6159c5d9000848ff19fce09318840f2c
 ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8#P2p://860969650:9906/d7506148214e4b3fae543068f1701ff7#p5p://45.92.126.18:19706/615ae21f000542fd04536e7d15caf57f
