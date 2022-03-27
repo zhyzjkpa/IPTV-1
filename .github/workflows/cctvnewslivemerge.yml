@@ -1,0 +1,46 @@
+name: CCTV News Live merge
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Install python
+      run: |
+        sudo apt install python3
+        pip3 install requests
+    - name: Get cctvnewslivemerge.m3u8
+      run: |
+        import requests
+        i = 1
+        j = 1
+        str = "#EXTM3U"
+        html = ""
+        while i <= 20:
+            url = f'https://live-play.cctvnews.cctv.com/cctv/merge{i}.m3u8'
+            html = requests.get(url).text
+            if str in html:
+                with open(f'cctvnewslivemerge{j}.m3u8', "w") as file:
+                    file.write("#EXTM3U\n")
+                    file.write("#EXT-X-VERSION:3\n")
+                    file.write("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n")
+                    file.write(url)
+                j =j + 1
+            i = i + 1
+    - name : Upload artifact
+      uses: actions/upload-artifact@master
+      with:
+        name: cctvnewslivemerge m3u8
+        path: .
+    - name: Git push assets to "cctvnewslivemerge" branch
+      run: |
+        git init
+        git config --local user.name "actions"
+        git config --local user.email "action@github.com"
+        git checkout -b cctvnewslivemerge
+        git add .
+        git commit -m "Update cctvnewslivemerge"
+        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+        git push -f -u origin cctvnewslivemerge
