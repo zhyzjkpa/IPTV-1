@@ -16,7 +16,8 @@
 
 # txt格式直播源
 推荐Android/Android TV设备使用 DIYP影音 进行观看
-- EPG:http://epg.51zmt.top:8000/api/diyp/
+- EPG-1:https://epg.112114.xyz
+- EPG-2:http://epg.51zmt.top:8000/api/diyp/
 - TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt （短网址：https://git.io/JBD02 ）
 - 中国加速TXT-1：https://raw.iqiq.io/LiuYi0526/IPTV/master/IPTV.txt
 - 中国加速TXT-2：https://hk1.monika.love/LiuYi0526/IPTV/master/IPTV.txt
