@@ -9,6 +9,8 @@
 - 中国加速M3U-2：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
 - 中国加速M3U-3：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
 - EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide_merge.xml （短网址：https://git.io/JRtUH ）
+- 中国加速EPG-1：https://raw.iqiq.io/LiuYi0526/IPTV/EPG/guide_merge.xml
+- 中国加速EPG-2：https://hk1.monika.love/LiuYi0526/IPTV/EPG/guide_merge.xml
 
 # txt格式直播源
 推荐Android/Android TV设备使用 DIYP影音 进行观看
